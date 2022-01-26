@@ -25,7 +25,7 @@
 ## 🪙 Token
 
 * [What is $DIMO](token/what-is-usddimo.md)
-* [Demand Signal](token/demand-signal.md)
+* [Demand Signal](token/drive-to-earn.md)
 * [Other Ways to Earn](token/other-ways-to-earn.md)
 * [Token Distribution](token/token-distribution.md)
 * [Pathway to Launch](token/pathway-to-launch.md)

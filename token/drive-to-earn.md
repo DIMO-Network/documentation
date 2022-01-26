@@ -22,9 +22,11 @@ Once the token distribution goes live on mainnnet, the weekly issuance will be a
 
 Throughout each week drivers will earn points depending on the miles and minutes they drive, the types of data they opt-in to provide, and the rarity of their make and model. They will then earn $DIMO tokens based on the percentage of total points that they received for that period. For example, if Alice earns 500,000 points in a week, and a total of 5,000,000,000 points are earned across all drivers in that same week, Alice earns 130 $DIMO (0.01% of points \* 1,300,000 $DIMO issued).
 
-![Planned points formula for allocating $DIMO weekly rewards from the baseline market demand pool](<../.gitbook/assets/Screen Shot 2022-01-06 at 6.27.44 PM (1).png>)
+![Planned points formula for allocating $DIMO weekly rewards from the simulated market demand pool](<../.gitbook/assets/Screen Shot 2022-01-20 at 3.56.08 PM.png>)
 
 Curious how this might function in practice? Take a look at the following hypothetical payouts for a week where 1,500,000,000 points were generated across all drivers. Remember, this is only showing rewards from Baseline Demand Signal and is not taking into account any rewards earned from Market Demand Signal (as described further down).
+
+Curious how this might function in practice? Take a look at the following hypothetical payouts for a week where 1,500,000,000 points were generated across all drivers. Remember, this is only showing rewards from Simulated Demand Signal and is not taking into account any rewards earned from Market Demand Signal (as described further down).
 
 ![Hypothetical distributions by persona assuming all users collectively earned 1.5b points in that week](<../.gitbook/assets/Screen Shot 2022-01-04 at 4.14.41 PM.png>)
 
