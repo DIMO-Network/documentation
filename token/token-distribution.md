@@ -18,7 +18,7 @@ Teams and individuals that contribute work to the DAO will receive $DIMO (and/or
 
 ### Driver Rewards
 
-In the first DIMO Improvement Proposal (DIP), the community will vote to earmark a majority of the 700,000,000 $DIMO treasury to a token pool that will incentivize drivers into the future based on Simulated Demand Signal (as described in [Drive-to-Earn](drive-to-earn.md)), as well as airdrop tokens to early users who connected their vehicles prior to the launch of $DIMO. This proposal would establish the total number of tokens in the pool (likely 450,000,000 $DIMO), the distribution of an airdrop, and the schedule and mechanics for issuing them going forward.
+In the first DIMO Improvement Proposal (DIP), the community will vote to earmark a majority of the 700,000,000 $DIMO treasury to a token pool that will incentivize drivers into the future based on Baseline Demand Signal (as described in [Demand Signal](demand-signal.md)), as well as airdrop tokens to early users who connected their vehicles prior to the launch of $DIMO. This proposal would establish the total number of tokens in the pool (likely 450,000,000 $DIMO), the distribution of an airdrop, and the schedule and mechanics for issuing them going forward.
 
 ### DIMO Core Team & Capital Partners&#x20;
 

@@ -2,29 +2,29 @@
 description: How drivers and fleet operators can earn $DIMO
 ---
 
-# Drive-to-Earn
+# Demand Signal
 
-Driver rewards will be based on a combination of both simulated and actual market demand for vehicle data and connectivity.&#x20;
+Driver rewards will be based on a combination of baseline and market demand for vehicle data and connectivity.&#x20;
 
-**Simulated Demand Signal** refers to the concept of rewarding drivers based on how many miles they drive, what type of car they drive, and what types of data they provide, even if there is no end customer using their data. **This will be the sole driver issuance mechanic initially**. The goal here is to prime the network by incentivizing drivers to connect the types of cars and stream the types of data that we expect will be valuable to data consumers and app developers in the future.
+**Baseline Demand Signal** refers to the concept of rewarding drivers based on how many miles they drive, what type of car they drive, and what types of data they provide, even if there is no end customer using their data. **This will be the sole driver issuance mechanic initially**. The goal here is to prime the network by incentivizing drivers to connect the types of cars and stream the types of data that we expect will be valuable to data consumers and app developers in the future.
 
 **Market Demand Signal** refers to rewarding drivers based on what third parties are paying for their data. E.g., if Acme Corp subscribes to Alice's data for $10/month, Alice receives $10/month less  protocol fees.
 
-In the early stages of DIMO's development, the vast majority of rewards will come from Simulated Demand Signal. As the network grows, this balance will likely shift the other way. This is comparable to other web3 networks like Helium, where their rewards from proof of coverage will shrink in comparison to rewards from data transfer over time.
+In the early stages of DIMO's development, the vast majority of rewards will come from Baseline Demand Signal. As the network grows, this balance will likely shift the other way. This is comparable to other web3 networks like Helium, where their rewards from proof of coverage will shrink in comparison to rewards from data transfer over time.
 
-### Rewards from Simulated Demand Signal
+### Rewards from Baseline Demand Signal
 
-As outlined in [Token Distribution](token-distribution.md), 450,000,000 $DIMO (45% of the total supply) will be allocated to fund the Simulated Demand Signal reward pool. This pool will be issued over 40 years by issuing 1,300,000 $DIMO per week for the first year, with issuance decreasing by 15% each year anniversary.
+As outlined in [Token Distribution](token-distribution.md), 450,000,000 $DIMO (45% of the total supply) will be allocated to fund the Baseline Demand Signal reward pool. This pool will be issued over 40 years by issuing 1,300,000 $DIMO per week for the first year, with issuance decreasing by 15% each year anniversary.
 
-As implied above, the goal here is to allow actual market demand to gradually supplement and replace simulated demand, thus reducing and removing the need to inflate the circulating supply of $DIMO in perpetuity.
+As implied above, the goal here is to allow actual market demand to gradually supplement and replace baseline demand, thus reducing and removing the need to inflate the circulating supply of $DIMO in perpetuity.
 
 Once the token distribution goes live on mainnnet, the weekly issuance will be allocated per the following methodology:
 
 Throughout each week drivers will earn points depending on the miles and minutes they drive, the types of data they opt-in to provide, and the rarity of their make and model. They will then earn $DIMO tokens based on the percentage of total points that they received for that period. For example, if Alice earns 500,000 points in a week, and a total of 5,000,000,000 points are earned across all drivers in that same week, Alice earns 130 $DIMO (0.01% of points \* 1,300,000 $DIMO issued).
 
-![Planned points formula for allocating $DIMO weekly rewards from the simulated market demand pool](<../.gitbook/assets/Screen Shot 2022-01-06 at 6.27.44 PM (1).png>)
+![Planned points formula for allocating $DIMO weekly rewards from the baseline market demand pool](<../.gitbook/assets/Screen Shot 2022-01-06 at 6.27.44 PM (1).png>)
 
-Curious how this might function in practice? Take a look at the following hypothetical payouts for a week where 1,500,000,000 points were generated across all drivers. Remember, this is only showing rewards from Simulated Demand Signal and is not taking into account any rewards earned from Market Demand Signal (as described further down).
+Curious how this might function in practice? Take a look at the following hypothetical payouts for a week where 1,500,000,000 points were generated across all drivers. Remember, this is only showing rewards from Baseline Demand Signal and is not taking into account any rewards earned from Market Demand Signal (as described further down).
 
 ![Hypothetical distributions by persona assuming all users collectively earned 1.5b points in that week](<../.gitbook/assets/Screen Shot 2022-01-04 at 4.14.41 PM.png>)
 
