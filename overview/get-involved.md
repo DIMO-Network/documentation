@@ -2,7 +2,7 @@
 
 ### Contribute to DIMO
 
-DIMO is a decentralized community owned protocol which means there are plenty of opportunities for the community to be involved. This works best with you involved. View the current \[d]Teams [here](../governance/d-teams.md) and visit the GO! Kit to get started.
+DIMO is a decentralized community owned protocol which means there are plenty of opportunities for the community to be involved. This works best with you involved. View the current \[d]Teams [here](../governance/d-teams.md) and visit the [DIMO GO! Kit](https://docs.dimo.zone/dimo-go-kit/) to get started.
 
 ### Add your vehicle
 
