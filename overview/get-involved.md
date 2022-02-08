@@ -13,7 +13,7 @@ DIMO partners with organizations in Fleet, IoT, Automotive, and Mobility service
 
 ### Contribute to DIMO - Support the Project
 
-DIMO is a decentralized, community-owned protocol which means there are plenty of opportunities for the community to get involved. In fact we think DIMO can only work with you involved.&#x20;
+DIMO is a decentralized, community-owned protocol which means there are plenty of opportunities for you as a community member to get involved. In fact we think DIMO can only work with you involved. _This means you can contribute your expertise and work across all the projects DIMO is working on._
 
 DIMO is structured in hybrid dTeams which include both DIMO Core Team members and community members who are working to make the vision a success. You can learn more about current \[d]Teams [**here**](../governance/d-teams.md) and visit the [DIMO GO! Kit](https://docs.dimo.zone/dimo-go-kit/) to get started.
 
