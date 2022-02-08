@@ -21,7 +21,7 @@ DIMO is structured in hybrid dTeams which include both DIMO Core Team members an
 
 <summary>DIMO Atlas / Go Kit</summary>
 
-For a more general overview of DIMO not related to a specific team you can visit the DIMO Atlas/Go Kit which will help orient you as a visitor (and soon to be citizen) of DIMO City.
+For a more general overview of DIMO not related to a specific team you can visit the **DIMO Atlas/Go Kit** which will help orient you as a visitor (and soon to be citizen) of DIMO City.
 
 * [DIMO Atlas/Go Kit](https://app.gitbook.com/o/IDM0isB8NflgM8HmoQc9/s/si2ktQtZ6jUiVyzznRNO/)
 
