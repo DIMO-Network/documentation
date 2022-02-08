@@ -1,6 +1,6 @@
 # ☑ Get involved
 
-### Use DIMO in with your vehicle(s)
+### Use DIMO with your vehicle(s)
 
 If you just want to add your vehicles, track your vehicle's health, and earn for sharing your data, you can sign up to add your vehicles.
 
