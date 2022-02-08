@@ -17,6 +17,16 @@ DIMO is a decentralized, community-owned protocol which means there are plenty o
 
 DIMO is structured in hybrid dTeams which include both DIMO Core Team members and community members who are working to make the vision a success. You can learn more about current \[d]Teams [**here**](../governance/d-teams.md) and visit the [DIMO GO! Kit](https://docs.dimo.zone/dimo-go-kit/) to get started.
 
+<details>
+
+<summary>dTeam Maps and Guides</summary>
+
+* [dMedia](https://app.gitbook.com/o/IDM0isB8NflgM8HmoQc9/s/YH0GI77wwN3kwEwGp1Na/)
+* dHardware
+* dCore
+
+</details>
+
 So that you can understand what you'll find, here are some ideas about how you can contribute:
 
 * Decode vehicles, unlocking more data and functionality for DIMO users.
