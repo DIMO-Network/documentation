@@ -35,7 +35,7 @@ For a more general overview of DIMO not related to a specific team you can visit
 
 Each dTeam has their own process for working with contributors and their own map/guide. Click one of the links below to visit the page for that specific team.
 
-* ****[**dMedia**](https://app.gitbook.com/o/IDM0isB8NflgM8HmoQc9/s/YH0GI77wwN3kwEwGp1Na/)****
+* ****[**dMedia**](https://docs.dimo.zone/dimo-go-kit/d-media/dmedia-map-and-guide)****
 * dHardware
 * dCore
 
