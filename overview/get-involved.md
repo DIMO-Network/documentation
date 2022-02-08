@@ -1,4 +1,4 @@
-# Get involved
+# ☑ Get involved
 
 ### Contribute to DIMO
 
@@ -8,6 +8,6 @@ DIMO is a decentralized community owned protocol which means there are plenty of
 
 Interested in riding with us? Click [here](https://app.dimo.zone) to join.
 
-### Join the team
+### Join the DIMO Core Team
 
-We're hiring! DIMO is community driven, but we're growing our talented internal team. Visit our [careers page](https://jobs.lever.co/DIMO).&#x20;
+We're hiring! DIMO is community-driven, but we're growing our talented core team. Visit our [careers page](https://jobs.lever.co/DIMO).&#x20;
