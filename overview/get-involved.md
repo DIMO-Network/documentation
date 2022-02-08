@@ -11,6 +11,8 @@ If you just want to add your vehicles, track your vehicle's health, and earn for
 
 DIMO partners with organizations in Fleet, IoT, Automotive, and Mobility services that can help both individuals and fleets take advantage of DIMO and join the DIMO Mobility Union.
 
+* Distribution Partner Form: [**Click Here**](https://gkmkni9caof.typeform.com/to/JcZhXAq3)**.**
+
 ### Support the Project—Contribute to DIMO
 
 DIMO is a decentralized, community-owned protocol which means there are plenty of opportunities for you as a community member to get involved. In fact we think DIMO can only work with you involved. _This means you can contribute your expertise and work across all the projects DIMO is working on._
