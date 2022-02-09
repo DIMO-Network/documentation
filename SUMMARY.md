@@ -6,7 +6,7 @@
 * [Why we're building it](overview/why-were-building-it.md)
 * [How DIMO scales](overview/how-dimo-scales.md)
 * [Starting with cars](overview/starting-with-cars.md)
-* [☑ Get involved](overview/get-involved.md)
+* [Get involved](overview/get-involved.md)
 
 ## 📈 Development Roadmap
 
