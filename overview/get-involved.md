@@ -25,7 +25,7 @@ For a **** general overview of DIMO and how to contribute you can visit the **DI
 [DIMO Contributor Atlas](https://app.gitbook.com/o/IDM0isB8NflgM8HmoQc9/s/si2ktQtZ6jUiVyzznRNO/)
 {% endcontent-ref %}
 
-To go to a specific dTeam's page, open the section below and choose which team to explore:
+To go to a specific dTeam's page, expand the section below to choose which team to explore:
 
 <details>
 
