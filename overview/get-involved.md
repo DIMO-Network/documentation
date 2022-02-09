@@ -17,17 +17,15 @@ DIMO partners with organizations in Fleet, IoT, Automotive, and Mobility service
 
 DIMO is a decentralized, community-owned protocol which means there are plenty of opportunities for you as a community member to get involved. In fact we think DIMO can only work with you involved. _This means you can contribute your expertise and work across all the projects DIMO is working on._
 
-DIMO is structured in hybrid dTeams which include both DIMO Core Team members and community members who are working to make the vision a success. You can learn more about current \[d]Teams [**here**](../governance/d-teams.md)**.** In the expandable sections below you can continue your journey:
+DIMO is structured in hybrid dTeams which include both DIMO Core Team members and community members who are working to make the vision a success. You can learn more about current \[d]Teams [**here**](../governance/d-teams.md)**.**&#x20;
 
-<details>
+For a **** general overview of DIMO and how to contribute you can visit the **DIMO Contributor Atlas** which will help orient you as a visitor (and soon to be citizen) of DIMO City.
 
-<summary>DIMO Atlas / Go Kit</summary>
+{% content-ref url="https://app.gitbook.com/o/IDM0isB8NflgM8HmoQc9/s/si2ktQtZ6jUiVyzznRNO/" %}
+[DIMO Contributor Atlas](https://app.gitbook.com/o/IDM0isB8NflgM8HmoQc9/s/si2ktQtZ6jUiVyzznRNO/)
+{% endcontent-ref %}
 
-For a more general overview of DIMO not related to a specific team you can visit the **DIMO Atlas/Go Kit** which will help orient you as a visitor (and soon to be citizen) of DIMO City.
-
-* [DIMO Atlas/Go Kit](https://app.gitbook.com/o/IDM0isB8NflgM8HmoQc9/s/si2ktQtZ6jUiVyzznRNO/)
-
-</details>
+To go to a specific dTeam's page, open the section below and choose which team to explore:
 
 <details>
 
