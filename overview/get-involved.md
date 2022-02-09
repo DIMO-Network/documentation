@@ -48,4 +48,4 @@ So that you can understand what you'll find, here are some ideas about how you c
 
 ### Join the DIMO Core Team
 
-We're hiring! DIMO is community-driven, but we're growing our talented core team. Visit our [<mark style="color:blue;">careers page</mark>](https://jobs.lever.co/DIMO).&#x20;
+We're hiring! DIMO is community-driven, but we're growing our talented core team. Visit our [<mark style="color:blue;">**careers page**</mark>](https://jobs.lever.co/DIMO).&#x20;
