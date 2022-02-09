@@ -21,7 +21,7 @@
 
 * [Community Owned](governance/community-owned.md)
 * [Voting](governance/voting.md)
-* [\[d\]Teams](governance/d-teams.md)
+* [dTeams](governance/dteams.md)
 
 ## 🪙 Token
 

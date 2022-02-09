@@ -16,6 +16,6 @@ It will be highly encouraged for proposals to form on Discord, take shape and de
 
 ### Stewards
 
-Any person who has been delegated 10,000,000 or more $DIMO is a DIMO Steward and will automatically be added to \[d]Stewards, the first \[d]Team. Stewards, both individually and collectively, have special authorities and responsibilities, including the ability to introduce proposals for full community voting and the responsibility to advise and occasionally intervene with other \[d]Teams.
+Any person who has been delegated 10,000,000 or more $DIMO is a DIMO Steward and will automatically be added to dStewards, one of the first dTeam. Stewards, both individually and collectively, have special authorities and responsibilities, including the ability to introduce proposals for full community voting and the responsibility to advise and occasionally intervene with other dTeams.
 
 ![Liquid democracy illustration (inspiration for the graphic from Horizen Academy)](https://cdn-images-1.medium.com/max/1600/0\*0oLb5npbcoGUhiOn)
