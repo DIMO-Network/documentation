@@ -33,9 +33,11 @@ To go to a specific dTeam's page, expand the section below to choose which team 
 
 Each dTeam has their own process for working with contributors and their own map/guide. Click one of the links below to visit the page for that specific team.
 
-* <mark style="color:blue;">****</mark>[<mark style="color:blue;">**dMedia**</mark>](https://docs.dimo.zone/dimo-go-kit/d-media/dmedia-map-and-guide)<mark style="color:blue;">****</mark>
-* dHardware
-* dCore
+* <mark style="color:blue;">****</mark>[<mark style="color:blue;">**dMedia**</mark>](https://docs.dimo.zone/dimo-contributor-atlas/d-media/dmedia-overview)<mark style="color:blue;">****</mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">**dHardware**</mark>](https://docs.dimo.zone/dimo-contributor-atlas/d-hardware/dhardware-overview)<mark style="color:blue;">****</mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">**dCore**</mark>](https://docs.dimo.zone/dimo-contributor-atlas/d-core/dcore-overview)<mark style="color:blue;">****</mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">**dNativeApps**</mark>](https://docs.dimo.zone/dimo-contributor-atlas/d-nativeapps/dnativeapps-overview)<mark style="color:blue;">****</mark>
+* More coming soon
 
 </details>
 
