@@ -22,6 +22,10 @@ The core team is developing an extensive DIMO Grants Program that will allow dev
 
 Apps are set up as “data consumers” that can pull data from the protocol to learn about the performance of components like batteries, automated driving systems, and controls. This will enable the development of disruptive new applications for fine-grained insurance, ride hailing, traffic navigation, vehicle financing, energy grid optimization, and much more.&#x20;
 
+### When will hardware ship?&#x20;
+
+Check [hardware-ecosystem.md](../../development-roadmap/hardware-ecosystem.md "mention") for the latest information.&#x20;
+
 ### When did DIMO start?
 
 After a year of R\&D we launched the DIMO Alpha Fleet in late 2021 and are ready to begin onboarding thousands of users in early 2022. If you’re here now, you’re early!&#x20;
