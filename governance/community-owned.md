@@ -1,5 +1,5 @@
 ---
-description: Operating as a Decentralized Autonomous Organization (DAO)
+description: How we're transition the DIMO project to user-ownership.
 ---
 
 # Community Owned
@@ -8,9 +8,9 @@ description: Operating as a Decentralized Autonomous Organization (DAO)
 
 DIMO aims to be a reliable, secure, and user-aligned base layer for connected devices. We believe the only way to credibly achieve these goals is to build DIMO as an open source platform where control is vested in a diverse collection of users and stakeholders who all have skin in the game.
 
-Not convinced? Facebook, Twitter, Instagram, and Google are platforms. Are their incentives aligned with their users or will [they make you miserable](https://techmonitor.ai/techonology/facebook-makes-users-envious-dissatisfied-study-220113) if it means you’ll spend more time on their site? Is it a fair platform to build your app on, or will they [extort you](https://www.gamesindustry.biz/articles/report-zynga-and-facebook-relationship-at-breaking-point) when you become successful? Who controls [access and censorship](https://www.msnbc.com/opinion/twitter-keeps-riding-line-between-moderation-censorship-n1273434)? Do you control your data or [do they](https://www.nbcnews.com/tech/tech-news/google-sells-future-powered-your-personal-data-n870501)?
+Facebook, Twitter, Instagram, Google, and connected vehicle platforms like [Wejo](https://www.wejo.com) are "walled garden" platforms.  Users have seen how their incentives are not aligned when interacting with these digital monoliths. Developers have seen how they will [extort you](https://www.gamesindustry.biz/articles/report-zynga-and-facebook-relationship-at-breaking-point) if you become successful on their platform. There are no clear rules on [access and censorship](https://www.msnbc.com/opinion/twitter-keeps-riding-line-between-moderation-censorship-n1273434), and ultimately ownership of your data.
 
-We don’t necessarily blame Facebook. We blame the incentives that Web 2.0 business models systematically create. DIMO’s vision is bigger than this—it’s to create a reality where user-owned digital ecosystems are the norm. We simply need a better model.
+We blame the incentives that Web 2.0 business models systematically create. DIMO’s vision is to create a reality where user-owned digital ecosystems are the norm. We're building a better model.
 
 We also want DIMO to scale and grow its offering quickly and effectively. By reducing friction and bureaucracy, opening up DIMO to global contributors, creating an operating structure that can scale, and aligning all stakeholders around the $DIMO token, the DIMO platform and the apps on top of it will be built far better and way faster.
 
