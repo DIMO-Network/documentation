@@ -16,6 +16,7 @@
   * [Phase 1.2](development-roadmap/technical-roadmap/phase-1.2.md)
   * [Phase 1.3](development-roadmap/technical-roadmap/phase-1.3.md)
 * [Seeding applications](development-roadmap/seeding-applications.md)
+* [Hardware Ecosystem](development-roadmap/hardware-ecosystem.md)
 
 ## 🗳 Governance
 
