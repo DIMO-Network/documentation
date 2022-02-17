@@ -63,3 +63,13 @@ We’re also releasing the very first version of a [DIMO hardware](https://shop.
 Almost any car manufactured in the past ten years (2012 or newer) registered in the US and Canada will be compatible. We're starting in this region for a combination of technical and legal reasons. We hope to expand to Mexico and Europe later in 2022, followed by the rest of the world. While we may not be in your country yet, you can still earn tokens by referring new drivers (create an account at [https://app.dimo.zone/](https://app.dimo.zone) to generate a referral link) and contributing to the DAO.\
 \
 We're working on expanding support, but with older cars, the challenge is getting viable data off of the car. This can inhibit token rewards or doing useful things with that data, like building next-generation apps.
+
+### Why don't older cars work if they have an OBD2 Port?
+
+There are two reasons why older cars are not supported today:
+
+1. More modern cars have greater telemetry available from subsystems, meaning there is more data to collect. The volume of data is a key consideration in the value of the connected data.
+2. Every car has data encoded differently. OBD2 ports are not like USB ports where they work the same way on every machine. Since each model of vehicle needs to be decoded separately, complexity expands with every vehicle.&#x20;
+
+DIMO has ongoing efforts to decode more vehicles and expand the number of vehicles we can connect. We also have limited hardware supply and wanted to ensure maximum impact. We'll revisit this policy later this year, but can't promise anything yet.
+
