@@ -8,9 +8,9 @@ $DIMO is an ERC-20 token on the Ethereum blockchain with a 1,000,000,000 token s
 
 While we're still developing the token, we’re building it to be useful in a handful of ways, including:
 
-#### Payment & Rewards
+#### Rewards
 
-$DIMO will be the sole token exchanged to access data, as well as the sole token to reward drivers who connect their vehicles and stream data to the protocol. Check out the next page to read about rewards design.
+While payments may be received in various tokens, $DIMO will be the sole token used to reward drivers who connect their vehicles and stream data to the protocol. Check out the next page to read about rewards design.
 
 Being sensitive to the fact that many end consumers may not be interested in acquiring and holding $DIMO, we will make use of Data Unions (brokers) that such end consumers (e.g., Geico, Waze, Vroom, JD Power) can transact using traditional service contracts and fiat money.
 
