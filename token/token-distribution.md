@@ -4,7 +4,7 @@ description: The details and rationale for the initial token distribution
 
 # Token Distribution
 
-![Chart depicting approximately when tokens will unlock for various token pools](<../.gitbook/assets/token unlock@2x (1).png>)
+![Chart depicting approximately when tokens will unlock for various token pools](<../.gitbook/assets/token unlock@2x (2).png>)
 
 The total supply of 1,000,000,000 $DIMO will be allocated in a manner that lines up with industry average allocations for protocol rewards, the DAO treasury, the core team, and capital partners. A community-first approach is important, which is why we’re allocating an above average 70% of tokens to users and the treasury.
 
