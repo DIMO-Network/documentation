@@ -22,7 +22,7 @@ A weekly issuance was chosen because driving behavior varies dramatically by tim
 
 To start, two different [dTeams](../governance/dteams.md) will oversee the distribution of baseline rewards. dCore will facilitate the distribution of half of the 1,300,000 $DIMO issued weekly. dGreen will facilitate the distribution of the other 650,000 $DIMO per a separate rewards formula aimed at incentivizing pro-social behavior.
 
-![](../.gitbook/assets/diagram.png)
+![](<../.gitbook/assets/diagram (6).png>)
 
 Once the token distribution goes live on mainnnet, the weekly issuance will be allocated per the following methodology from each pool. $DIMO token holders can vote to alter these rewards formulas, alter the issuance amounts, and create new pools at any time by [voting](../governance/voting.md).&#x20;
 
@@ -57,7 +57,7 @@ Across both pools, Alice earned approximately 248 $DIMO in a week. If she contin
 
 Curious how this would play out for people besides Alice? The table below shows earnings for other hypothetical drivers.
 
-![](<../.gitbook/assets/Screen Shot 2022-02-21 at 2.40.51 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2022-02-25 at 6.26.53 PM.png>)
 
 ### Market Demand Signal
 
