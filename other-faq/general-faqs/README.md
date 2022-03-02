@@ -16,6 +16,10 @@ Today you can connect your car and stream verified data. Very soon, you'll also 
 
 Go to [app.dimo.zone](https://app.dimo.zone) to create an account and connect your car(s).
 
+### How do I contact Support?
+
+You can reach support by emailing support@dimo.zone.
+
 ### How can I build apps for cars and drivers?
 
 The core team is developing an extensive DIMO Grants Program that will allow developers to earn significant $DIMO in exchange for building key applications on the platform.
