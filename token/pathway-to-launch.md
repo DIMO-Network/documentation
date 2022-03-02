@@ -6,7 +6,7 @@ description: Pre-mainnet distribution
 
 We still have work to do before we can start issuing the blockchain based $DIMO token to users.
 
-Fortunately, users won’t have to wait that long to start earning. Starting in February, we’ll allow users to start accumulating points which will entitle them to a portion of the retroactive distribution of tokens for early users once the token goes live. These off-chain points will not exist on any blockchain, only on our servers (like Reddit Karma or Facebook Likes). Hypothetically, if a user earns 1% of all points earned by all users in the pre-mainnet phase, they'll earn 1% of the retroactive airdrop.
+Fortunately, users won’t have to wait that long to start earning. Starting soon, we’ll allow users to start accumulating points which will entitle them to a portion of the retroactive distribution of tokens for early users once the token goes live. These off-chain points will not exist on any blockchain, only on our servers (like Reddit Karma or Facebook Likes). Hypothetically, if a user earns 1% of all points earned by all users in the pre-mainnet phase, they'll earn 1% of the retroactive airdrop.
 
 We plan to launch the mainnet token earlier in our go-to-market cycle than many projects, which has pros and cons. Often projects will operate without a token while they grow their user base. After a few years, they launch the token with a big airdrop to a broader community, resulting in a more decentralized DAO on day one. But we believe this isn’t a deliberate tactic as much as it was a practical consequence of the fact that the market and infrastructure for governance token launches weren’t mature enough for these projects in their early days.
 
