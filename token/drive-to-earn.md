@@ -26,7 +26,7 @@ To start, two different [dTeams](../governance/dteams.md) will oversee the distr
 
 Once the token distribution goes live on mainnnet, the weekly issuance will be allocated per the following methodology from each pool. $DIMO token holders can vote to alter these rewards formulas, alter the issuance amounts, and create new pools at any time by [voting](../governance/voting.md).&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-02-28 at 3.51.28 PM.png>)
+![](../.gitbook/assets/core.png)
 
 In year one, the Core rewards pool will issue 650,000 $DIMO per week to all DIMO users based on how many points they've earned relative to other users. In other words, if you earn 1% of the points in a given week, you also get 1% of the tokens distributed that week. Drivers earn points based on the quality and duration of their data connection. **Both gas and electric vehicles are eligible to earn tokens from the Core rewards pool.**
 
@@ -41,7 +41,7 @@ In the example shown in the table above, there are 10,000 cars connected to DIMO
 
 Alice earns 2,000 points for having been connected between 20 to 36 weeks and 7,500 points for having a [DIMO Data Miner](https://shop.dimo.zone) installed in her vehicle which has already been [decoded](https://github.com/DIMO-Network/opendbc). She has earned 9,500 points in total this week in the dCore pool. Given the exchange rate of approximately 92 points per token, we can calculate that she will be sent just over 103 $DIMO from this pool (9,500 points ÷ 92 points per token).
 
-![](<../.gitbook/assets/Screen Shot 2022-02-28 at 3.51.40 PM.png>)
+![](<../.gitbook/assets/image (2).png>)
 
 **Unlike Core, the Green rewards pool is only available to drivers with electric vehicles, including plug-in-hybrids**. It issues another 650,000 $DIMO per week in year one. Gas cars and hybrids that don't have plug-in charging will not be eligible to earn rewards from this pool.
 
@@ -51,13 +51,13 @@ The Mach-E is a 100% electric vehicle so she earns 5,000 points. Also, there are
 
 We calculate Alice's token earnings by taking her 8,000 points and dividing them by 55 points per token, which gives us her earnings of 145 $DIMO from the dGreen rewards pool.
 
-![](<../.gitbook/assets/Screen Shot 2022-02-28 at 3.51.49 PM.png>)
+![](../.gitbook/assets/image.png)
 
 Across both pools, Alice earned approximately 248 $DIMO in a week. If she continued to earn that amount each week, she would end the year with 12,915 tokens from her Mach-E.
 
-Curious how this would play out for people besides Alice? The table below shows earnings for a small sample of hypothetical drivers given some amount of points earned in each pool in a hypothetical week. This is meant to be illustrative, not comprehensive.
+Curious how this would play out for people besides Alice? The table below shows earnings for a small sample of hypothetical drivers in the same hypothetical week. This is meant to be illustrative using a small handful of made up users, not an exhaustive list of every combination of attributes.
 
-![](<../.gitbook/assets/Screen Shot 2022-02-28 at 4.10.58 PM.png>)
+![](<../.gitbook/assets/image (6).png>)
 
 ### Market Demand Signal
 
