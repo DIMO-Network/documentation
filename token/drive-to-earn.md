@@ -57,7 +57,7 @@ Across both pools, Alice earned approximately 248 $DIMO in a week. If she contin
 
 Curious how this would play out for people besides Alice? The table below shows earnings for a small sample of hypothetical drivers in the same hypothetical week. This is meant to be illustrative using a small handful of made up users, not an exhaustive list of every combination of attributes.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/Screen Shot 2022-03-03 at 2.52.27 PM.png>)
 
 ### Market Demand Signal
 
