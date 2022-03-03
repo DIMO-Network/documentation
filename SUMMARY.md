@@ -22,7 +22,7 @@
 
 * [Community Owned](governance/community-owned.md)
 * [Voting](governance/voting.md)
-* [dTeams](governance/dteams.md)
+* [DIMO Teams](governance/dimo-teams.md)
 
 ## 🪙 Token
 
