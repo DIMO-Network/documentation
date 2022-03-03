@@ -28,9 +28,11 @@ Once the token distribution goes live on mainnnet, the weekly issuance will be a
 
 ![](../.gitbook/assets/core.png)
 
-In year one, the Core rewards pool will issue 650,000 $DIMO per week to all DIMO users based on how many points they've earned relative to other users. In other words, if you earn 1% of the points in a given week, you also get 1% of the tokens distributed that week. Drivers earn points based on the quality and duration of their data connection. **Both gas and electric vehicles are eligible to earn tokens from the Core rewards pool.**
+In year one, the Core rewards pool will issue 650,000 $DIMO per week to all DIMO users based on how many points they've earned relative to other users. In other words, if you earn 1% of the points in a given week, you also get 1% of the tokens distributed that week. **Both gas and electric vehicles are eligible to earn tokens from the Core rewards pool.**
 
-Our aim is to:
+In the Core rewards pool, **** drivers earn points based on the quality and duration of their data connection. Users who fail to connect for a full month will fall back one level unless they initiate a pause on that vehicle in the DIMO app.
+
+With this design, our aim is to:
 
 * Reward and give control to those who show long-term support for DIMO;
 * Incentivize a continuous data connection, which tells a fuller story of driver behavior and vehicle performance when maintained over a long-period of time;
