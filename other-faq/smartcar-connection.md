@@ -15,7 +15,7 @@ Here's a list of the most common issues and mitigation steps:&#x20;
 A software connection to DIMO requires you to have an active subscription to your automaker’s connected vehicle services product to see data.&#x20;
 
 {% hint style="success" %}
-**Click here:** [**for a guide**](https://www.notion.so/Brand-Subscription-Information-751db7c79b8348b293ef12d4c6b9c982) **on which subscription you need to have for your vehicle.**
+**Click** [<mark style="background-color:green;">**here: for a guide**</mark>](https://www.notion.so/Brand-Subscription-Information-751db7c79b8348b293ef12d4c6b9c982) **on which subscription you need to have for your vehicle.**
 {% endhint %}
 
 ### Have your login credentials or subscription status with your automaker changed?&#x20;
