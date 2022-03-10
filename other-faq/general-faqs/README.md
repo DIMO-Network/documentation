@@ -30,6 +30,14 @@ Apps are set up as “data consumers” that can pull data from the protocol to 
 
 Check [hardware-ecosystem.md](../../development-roadmap/hardware-ecosystem.md "mention") for the latest information.&#x20;
 
+### What is the return policy?
+
+You can find our return policy here [https://shop.dimo.zone/pages/return-policy](https://shop.dimo.zone/pages/return-policy)
+
+### Is there warranty for the device?
+
+DIMO honors a 12 month warranty on the DIMO Data Miner from the point of delivery in case of defect when there is no software fix available.
+
 ### When did DIMO start?
 
 After a year of R\&D we launched the DIMO Alpha Fleet in late 2021 and are ready to begin onboarding thousands of users in early 2022. If you’re here now, you’re early!&#x20;

@@ -37,3 +37,4 @@
 * [General FAQs](other-faq/general-faqs/README.md)
   * [🔏 Data & Privacy FAQs](other-faq/general-faqs/data-and-privacy-faqs.md)
 * [Hardware Device](other-faq/hardware-device.md)
+* [SmartCar Connection](other-faq/smartcar-connection.md)
