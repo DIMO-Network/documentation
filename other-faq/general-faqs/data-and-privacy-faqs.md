@@ -4,7 +4,11 @@ description: How DIMO Keeps Your Data Safe
 
 # 🔏 Data & Privacy FAQs
 
-**What kind of data am I providing from my vehicle?**&#x20;
+{% hint style="success" %}
+DIMO will never share your information with a 3rd party without your explicit consent. As a user, you can access the full suite of your own data, but no one else can.&#x20;
+{% endhint %}
+
+**By Connecting to DIMO What kind of data am I providing from my vehicle?**&#x20;
 
 DIMO breaks down the data into a few key categories:&#x20;
 
@@ -15,21 +19,19 @@ DIMO breaks down the data into a few key categories:&#x20;
 
 For a complete list of the data points DIMO collects, you can log into your dashboard and view the activity log from your connected car.
 
-As mentioned above, DIMO is only making available data relevant for EV battery systems today. As a user, you can access the full suite of your own data, but no one else can.&#x20;
-
 **Does this mean you know where I live, work, or where I am at all times?**&#x20;
 
-First, DIMO provides the ability for you to set areas on a map where we will not collect location data to protect your privacy.
+First, DIMO provides the ability for you to set areas on a map where we will not collect location data to protect your privacy. [You can read more about privacy zones here.](https://blog.dimo.zone/dimo-and-user-privacy/)
 
-Second, the location data and your account data are encrypted in both transit and storage and kept separately. There’s no way to connect a given account to the specific location data received.
+Second, the location data and your account data are encrypted in transit and storage and kept separately. There’s no way to connect a given account to the specific location data received.
 
 In the near future you will have the ability to opt out of sharing your location data entirely, although this could impact your earnings.&#x20;
 
-**If I Opt-In to Sharing Where does the data go?**
+**If I Opt-In to share data with a partner, Where does that data go?**
 
 &#x20;Your vehicle data is aggregated into what we call a Mobility Data Union. This is a collection of all the data of DIMO users and data providers. Customers who want to purchase the data need to be approved to do so by DIMO, and today they can only purchase certain data points.
 
-Over time, DIMO will expand to create other Data Unions as demand requires it. Data Unions will be segmented into different types with different privacy concerns (for example, a Data Union just about battery health vs a Data Union with location data of vehicles). Users will be able to pick which Data Unions to join and this will affect their rewards.&#x20;
+Over time, Data Unions will be segmented into different types with different privacy concerns. Users will be able to pick which Data Unions to join and this will affect their rewards.&#x20;
 
 **Can you show me the data you’re collecting?**&#x20;
 
@@ -42,11 +44,17 @@ The data you are providing will be encrypted in transit and at rest initially on
 \
 **Can I delete my data at any time?**&#x20;
 
-Yes. While DIMO builds out the data management features, you can delete your data by emailing support@dimo.zone.&#x20;
+Yes. While DIMO builds out the data management features, you can delete your data by emailing support@dimo.zone. The integration with your vehicle can be paused at any time in your dashboard as well.&#x20;
 
 **Who are you going to sell this data to?**&#x20;
 
-Common buyers of vehicle data include automakers themselves, insurance companies, other manufacturers, financial firms, and many others. DIMO takes serious precautions with any prospective data consumer ensuring that they are reputable and that there are serious penalties if data is misused.
+Once data sharing begins (and a user has opted in), common buyers of vehicle data will include automakers themselves, insurance companies, other manufacturers, financial firms, and many others.&#x20;
+
+{% hint style="success" %}
+DIMO will negotiate on behalf of users to get them the best deal for their data, whether that is a direct payment, or for cheaper goods and services like insurance, vehicle sales, maintenance, and more. If you're spending money on something related to mobility, we want to leverage your data to help you get a better deal for it.&#x20;
+{% endhint %}
+
+DIMO takes serious precautions with any prospective data consumer ensuring that they are reputable and that there are penalties if data is misused.
 
 Data that can identify your individual vehicle for application specific purposes will not be provided to any 3rd party without your specific consent, which can be revoked at any period in time.&#x20;
 
