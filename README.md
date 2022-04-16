@@ -1,18 +1,13 @@
----
-cover: .gitbook/assets/footer_bg.svg
-coverY: 0
----
-
 # What is DIMO
 
-DIMO is an open-source protocol that leverages web3 technology to connect data producers and consumers. The initial focus of DIMO is to provide an easy to use solution for vehicle owners to collect, use, and earn rewards on the data that their cars generate. The DIMO platform is a fair, neutral, and open marketplace on which developers can build robust applications.
+DIMO is an open platform that connects data **producers** (like cars) and **consumers** (applications and businesses) to unlock next generation mobility services.&#x20;
+
+**Vehicle owners** use DIMO to save money and get more out of their mobility spend. The platform allows them to collect, use and monetize the data their cars generate.&#x20;
+
+**Businesses & App developers** can access vehicle data to build services on a stable, open platform - reducing the cost of building integrations and allowing them to focus on delivering value to users.
 
 ![](.gitbook/assets/data.png)
 
-![](.gitbook/assets/Ecosystem2.png)
-
-A more detailed overview of how these groups interact with DIMO and how other entities like regulators and data unions come into play is provided in later sections.
-
-DIMO will be built in the open with open source components. This approach will unlock levels of transparency, privacy, composability, and reliability that were previously impossible in IoT networks.
+DIMO will be built in the open with open source components. This approach will unlock levels of transparency, privacy, composability, and reliability in IoT networks - increasing user and developer trust in connected devices and services.
 
 ![](.gitbook/assets/Stack.png)
