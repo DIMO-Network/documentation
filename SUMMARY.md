@@ -38,3 +38,7 @@
   * [🔏 Data & Privacy FAQs](other-faq/general-faqs/data-and-privacy-faqs.md)
 * [Hardware Device](other-faq/hardware-device.md)
 * [SmartCar Connection](other-faq/smartcar-connection.md)
+
+## 🖼 NFT
+
+* [Alpha Fleet NFT Claiming Guide](nft/alpha-fleet-nft-claiming-guide.md)
