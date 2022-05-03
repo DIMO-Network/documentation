@@ -32,13 +32,19 @@
 * [Token Distribution](token/token-distribution.md)
 * [Pathway to Launch](token/pathway-to-launch.md)
 
+## 🖼 NFT
+
+* [Alpha Fleet NFT Claiming Guide](nft/alpha-fleet-nft-claiming-guide.md)
+
+## 🚨 Support
+
+* [Contact us!](support/contact-us.md)
+* [Hardware issues](support/hardware-issues.md)
+* [Software issues](support/software-issues.md)
+
 ## ⁉ Other FAQ
 
 * [General FAQs](other-faq/general-faqs/README.md)
   * [🔏 Data & Privacy FAQs](other-faq/general-faqs/data-and-privacy-faqs.md)
 * [Hardware Device](other-faq/hardware-device.md)
 * [SmartCar Connection](other-faq/smartcar-connection.md)
-
-## 🖼 NFT
-
-* [Alpha Fleet NFT Claiming Guide](nft/alpha-fleet-nft-claiming-guide.md)
