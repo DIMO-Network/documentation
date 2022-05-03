@@ -39,8 +39,6 @@
 ## 🚨 Support
 
 * [Contact us!](support/contact-us.md)
-* [Hardware issues](support/hardware-issues.md)
-* [Software issues](support/software-issues.md)
 
 ## ⁉ Other FAQ
 
