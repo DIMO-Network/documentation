@@ -45,10 +45,10 @@
 ## 🚨 Support
 
 * [Contact us!](support/contact-us.md)
+* [Hardware Device](support/hardware-device.md)
+* [SmartCar Connection](support/smartcar-connection.md)
 
 ## ⁉ Other FAQ
 
 * [General FAQs](other-faq/general-faqs/README.md)
   * [🔏 Data & Privacy FAQs](other-faq/general-faqs/data-and-privacy-faqs.md)
-* [Hardware Device](other-faq/hardware-device.md)
-* [SmartCar Connection](other-faq/smartcar-connection.md)
