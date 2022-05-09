@@ -32,6 +32,10 @@
 * [Token Distribution](token/token-distribution.md)
 * [Pathway to Launch](token/pathway-to-launch.md)
 
+## 🔧 Install
+
+* [How to install your DIMO device](install/how-to-install-your-dimo-device.md)
+
 ## 🖼 NFT
 
 * [DIMO NFTs](nft/dimo-nfts.md)
