@@ -35,7 +35,8 @@
 ## 🖼 NFT
 
 * [DIMO NFTs](nft/dimo-nfts.md)
-* [How to Claim your NFT](nft/how-to-claim-your-nft.md)
+* [How to Claim your NFT](nft/alpha-fleet-nft-claiming-guide.md)
+* [NFT FAQ](nft/nft-faq.md)
 
 ## 🚨 Support
 
