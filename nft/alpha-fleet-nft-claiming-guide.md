@@ -10,7 +10,7 @@ description: DIMO NFTs live here - https://galaxy.eco/dimo/
 The Eth address you have connected your DIMO account with be the one needed to mint your NFT.
 {% endhint %}
 
-How to claim your Alpha Fleet ONYX NFT\
+How to claim your Alpha Fleet ONYX NFT <img src="../.gitbook/assets/Alpha Fleet - fresh.png" alt="" data-size="line">\
 \
 Step 1. When your order has arrived, you can post a picture of your device in the DIMO network discord to receive the Alpha Fleet Roll
 
