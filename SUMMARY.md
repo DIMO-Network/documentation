@@ -36,17 +36,17 @@
 
 * [How to install your DIMO device](install/how-to-install-your-dimo-device.md)
 
+## 🚨 Support
+
+* [Contact us!](support/contact-us.md)
+* [Hardware Device](other-faq/hardware-device.md)
+* [SmartCar Connection](other-faq/smartcar-connection.md)
+
 ## 🖼 NFT
 
 * [DIMO NFTs](nft/dimo-nfts.md)
 * [How to Claim your NFT](nft/alpha-fleet-nft-claiming-guide.md)
 * [NFT FAQ](nft/nft-faq.md)
-
-## 🚨 Support
-
-* [Contact us!](support/contact-us.md)
-* [Hardware Device](support/hardware-device.md)
-* [SmartCar Connection](support/smartcar-connection.md)
 
 ## ⁉ Other FAQ
 
