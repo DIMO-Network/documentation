@@ -6,7 +6,7 @@ description: Details on the DIMO x AutoPi Hardware Miner
 
 ### Where can I find my car’s OBD2 port?&#x20;
 
-The OBD2 port is usually under the front console on the driver’s side of the vehicle, but there can be a lot of variation from car to car. Check out [this link](hardware-device.md#where-can-i-find-my-cars-obd2-port) to identify where your OBD2 port is.&#x20;
+The OBD2 port is usually under the front console on the driver’s side of the vehicle, but there can be a lot of variation from car to car. Check out [this link ](https://www.carmd.com/obd-port-location/)to identify where your OBD2 port is.&#x20;
 
 ### Will the device cause any issues for my car? Is it safe?
 
