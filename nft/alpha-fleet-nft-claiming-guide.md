@@ -24,7 +24,7 @@ Step 3. Drive around for data to be sent over your app.
 Step 4. After 1 week of being connected, you will be eligible to mint your NFT&#x20;
 
 \
-step 5. Head over [here](https://galaxy.eco/dimo/campaign/GCeeuUUZ3Z) to mint your DIMOt NFT \
+step 5. Head over [here](https://galaxy.eco/dimo/campaign/GCeeuUUZ3Z) to mint your DIMO NFT \
 
 
 {% hint style="info" %}
@@ -32,4 +32,8 @@ Please note that the DIMO team has to whitelist your ETH address to allow for mi
 We will refresh the list at the end of every week.
 {% endhint %}
 
-How to claim your Alpha Fleet Bronze NFT <img src="../.gitbook/assets/Bronze.png" alt="" data-size="line">
+How to claim your Alpha Fleet Bronze NFT <img src="../.gitbook/assets/Bronze.png" alt="" data-size="line">\
+\
+you can claim your [NFT](https://galaxy.eco/dimo/campaign/GCDTXUUcjT) here \
+\
+How to claim your Alpha Fleet Silver NFT&#x20;
