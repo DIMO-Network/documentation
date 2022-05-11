@@ -4,7 +4,7 @@
 
 This specialized data port is usually under the dashboard below the steering wheel, but you may find it in a few other locations depending on your car. If you need help finding it, click [here](https://www.carmd.com/obd-port-location/). The port can be hard to find in some vehicles, but you should see a trapezoid shape with two rows of pins.
 
-### **Select a Device Location**
+### **Select a Device Location** <img src="../.gitbook/assets/obd_locate_ports.jpeg" alt="" data-size="line">****
 
 The AutoPi is typically obtrusive to driving if not properly installed. An extension cord will allow you to get the device to a secure, and out of sight location. Make sure that the AutoPi is in a location that will not hurt you, in the event of a crash. Do not put this device in a place where an airbag expands into or from.\
 ****
