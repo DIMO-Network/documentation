@@ -36,7 +36,7 @@
 
 * [What's included?](install/whats-included.md)
 * [How to install your DIMO device](install/how-to-install-your-dimo-device.md)
-* [How to pair your device](install/how-to-pair-your-device.md)
+* [How to pair your device!](install/how-to-pair-your-device.md)
 
 ## 🚨 Support
 
