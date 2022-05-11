@@ -19,7 +19,7 @@ We recommended the following options for places to install your AutoPi Device:
 
 Once you’ve found the ideal location for the device, first use the provided alcohol swab to wipe down the area, then use the provided double-sided tape to secure the AutoPi in the swabbed area
 
-### **Using An Extension Cable**
+### **Using An Extension Cable** <img src="https://lh4.googleusercontent.com/OobmyiHmijqx68U94nmsBv8JynlctzXKAHaWHJkajEbEhFkcNa0z61v7_3h73cIkULB_2bp85ZIvL-NOJtBJ1iT7uL5hE8n7-d40PCz3tIo7_KVl4l4vBW6NMg5GCLmYyKP3d3r-qnesiPraGA" alt="" data-size="line">
 
 \
 Once the AutoPi is plugged in it will power on/off automatically, (sometimes you will need to start your vehicle). The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts. You may see lights flashing when you shut your vehicle off, but this will not kill your battery. It’s just temporary.\
