@@ -22,9 +22,8 @@ Once you’ve found the ideal location for the device, first use the provided al
 ### **Using An Extension Cable**
 
 \
+Once the AutoPi is plugged in it will power on/off automatically, (sometimes you will need to start your vehicle). The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts. You may see lights flashing when you shut your vehicle off, but this will not kill your battery. It’s just temporary.\
 \
-**Once the AutoPi is plugged in it will power on/off automatically, (sometimes you will need to start your vehicle). The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts. You may see lights flashing when you shut your vehicle off, but this will not kill your battery. It’s just temporary.**\
-\
-**The AutoPi Miner then connects via 4G and configures itself for your vehicle. This may take up to 15 minutes, and you may need to drive around if you’re in an area with poor cell coverage.**
+The AutoPi Miner then connects via 4G and configures itself for your vehicle. This may take up to 15 minutes, and you may need to drive around if you’re in an area with poor cell coverage.
 
 ## Install Video coming soon.&#x20;
