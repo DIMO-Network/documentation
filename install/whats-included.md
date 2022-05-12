@@ -1,18 +1,29 @@
 ---
-description: Let's get you started on installing it.
+description: Let's get you started on installation!
 ---
 
 # DIMO Device Installation Instructions
 
-1. [Step 1: Check the Contents](whats-included.md#step-1-check-the-contents)
-2. Step 2: Review the Warnings
-3. [Step 2: Watch the Installation Video](whats-included.md#installation-video)
-4. [Step 3: Review the Instructions ](whats-included.md#step-3-review-the-instructions)
-5. Step 4: Get going!
+[READ: Before you Start ](whats-included.md#before-you-start-warnings-and-key-info)
 
-## Step 1: Check the contents
+1. [Step 1: Check the Contents of Your Package ](whats-included.md#step-1-check-the-contents)
+2. [Step 2: Watch the Installation Video](whats-included.md#installation-video)
+3. [Step 3: Review these Instructions ](whats-included.md#step-3-review-the-instructions)
+4. Step 4: Get going!
 
-In the box you should have received the following
+## Before you Start: 🚨Warnings and ⚠️Key Info
+
+You're early! The install process may not be perfect and there may be some kinks to iron out.
+
+Do not put this device on an airbag panel.
+
+Once the AutoPi is plugged in it will power on/off automatically, (sometimes you will need to start your vehicle). The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts. You may see lights flashing when you shut your vehicle off, but this will not kill your battery. It’s just temporary.
+
+✅ All good? Let's get going.&#x20;
+
+## Step 1: Check the Contents of Your Package
+
+In the box you should have received the following items:
 
 * **DIMO Miner** (SIM card is already installed and active)
 * **OBD2 extension cord** for the DIMO Miner to find a comfortable mounting position
@@ -35,13 +46,6 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 ✅ If everything looks good, let's move on to the next step!
 
-## 🚨 Step 2: Review the Warnings
-
-Do not put this device on an airbag panel.
-
-Once the AutoPi is plugged in it will power on/off automatically, (sometimes you will need to start your vehicle). The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts. You may see lights flashing when you shut your vehicle off, but this will not kill your battery. It’s just temporary.\
-
-
 ## Step 3: Watch the Installation Video
 
 (in final review, coming soon)
@@ -50,7 +54,7 @@ Once the AutoPi is plugged in it will power on/off automatically, (sometimes you
 
 ✅ Got all that? You can read through it all below:
 
-## Step 3: Review the Instructions
+## Step 3: Review these Instructions
 
 1. Locate your OBD2 port
 2. Select a Device Location with your Extension Cable
