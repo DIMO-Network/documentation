@@ -34,3 +34,6 @@ If you think anything is broken, defective or missing, please email support@dimo
 {% endhint %}
 
 ✅ If everything looks good, let's move on to the next step!
+
+## Installation Video
+
