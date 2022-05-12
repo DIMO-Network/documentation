@@ -27,7 +27,7 @@ description: Let's get you started on installation!
 
 * **How the AutoPi Operates.** Once the AutoPi is plugged in it will power on/off automatically, (sometimes you will need to start your vehicle). The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts.&#x20;
 * **Lights on the AutoPi**. The lights on the AutoPi may stay on or flash when you shut your vehicle off, but this will not kill your battery. It’s just temporary.
-* **Unusual Occurrences**. If you notice anything unusual after plugging in your device
+* **Unusual Occurrences**. If you notice anything unusual after plugging in your device like a check engine light, we want to hear from you. Between AutoPi and DIMO, there are thousands of devices in the field, and we're confident this will not impact your vehicle operations, but we can help troubleshoot and make sure everything is normal and alarms clear.&#x20;
 
 ✅ All good? Let's get going.&#x20;
 
