@@ -4,11 +4,10 @@ description: Let's get you started on installing it.
 
 # DIMO Device Installation Instructions
 
-Step 1: Check the Contents
-
-Step 2: Watch the video
-
-Step 3: Use the detailed instructions&#x20;
+1. [Step 1: Check the Contents](whats-included.md#step-1-check-the-contents)
+2. [Step 2: Watch the Video](whats-included.md#installation-video)
+3. [Step 3: Review the Instructions ](whats-included.md#step-3-review-the-instructions)
+4. Step 4: Get going!
 
 ## Step 1: Check the contents
 
@@ -35,22 +34,39 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 ✅ If everything looks good, let's move on to the next step!
 
-## Installation Video
+## Step 2: Watch the Installation Video
 
 (in final review, coming soon)
 
+
+
+✅ Got all that? You can read through it all below:
+
+## Review the warnings
+
+Do not put this device on an airbag panel.
+
 ## Step 3: Review the Instructions
 
-### **Locate the OBD2 Port**&#x20;
+1. Find your OBD2 port
+2. Determine where you will mount your device
+3. Follow the Pairing Process in the app.&#x20;
 
-****<img src="https://lh5.googleusercontent.com/hkXE-AsMhWARWfSRr15AZpm-PBvV8_ZcEelbtBlnohZ5K0rXlUlY8nBgeDRvGL55dEM1GtT9jpasNV-z29ckqpW2tKK3_5lB9TdYMP07X2BQzeYOoIgmrrMWJt5eM5aLNs1Q2rA1YUOxbCqG_Q" alt="" data-size="original">
+### **1) Locate the OBD2 Port**&#x20;
 
-This specialized data port is usually under the dashboard below the steering wheel, but you may find it in a few other locations depending on your car. If you need help finding it, click [here](https://www.carmd.com/obd-port-location/). The port can be hard to find in some vehicles, but you should see a trapezoid shape with two rows of pins.
+This specialized data port is usually under the dashboard below the steering wheel, but you may find it in a few other locations depending on your car. The port can be hard to find in some vehicles, but you should see a trapezoid shape with two rows of pins that looks like this:
 
-### **Select a Device Location** <img src="../.gitbook/assets/obd_locate_ports.jpeg" alt="" data-size="line">****
+![](https://lh5.googleusercontent.com/hkXE-AsMhWARWfSRr15AZpm-PBvV8\_ZcEelbtBlnohZ5K0rXlUlY8nBgeDRvGL55dEM1GtT9jpasNV-z29ckqpW2tKK3\_5lB9TdYMP07X2BQzeYOoIgmrrMWJt5eM5aLNs1Q2rA1YUOxbCqG\_Q)
 
-The AutoPi is typically obtrusive to driving if not properly installed. An extension cord will allow you to get the device to a secure, and out of sight location. Make sure that the AutoPi is in a location that will not hurt you, in the event of a crash. Do not put this device in a place where an airbag expands into or from.\
-****
+If you need help finding it, click [here](https://www.carmd.com/obd-port-location/). You may have to check a few places to find the port.
+
+![](../.gitbook/assets/obd\_locate\_ports.jpeg)
+
+### **2) Select a Device Location**&#x20;
+
+Depending on where your OBD2 port is, if you install the AutoPi directly into it, it can be in the way when you drive. **Most people will need to use the extension cord to install the device in a place where it will not be in the way.**
+
+The extension cord will allow you to get the device to a secure, and out of sight location. Do not put this device on an airbag panel.
 
 We recommended the following options for places to install your AutoPi Device:
 
