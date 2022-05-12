@@ -75,6 +75,8 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 This specialized data port is usually under the dashboard below the steering wheel, but you may find it in a few other locations depending on your car. The port can be hard to find in some vehicles, but you should see a trapezoid shape with two rows of pins that looks like this:
 
+(Click to expand this picture)&#x20;
+
 ![](https://lh5.googleusercontent.com/hkXE-AsMhWARWfSRr15AZpm-PBvV8\_ZcEelbtBlnohZ5K0rXlUlY8nBgeDRvGL55dEM1GtT9jpasNV-z29ckqpW2tKK3\_5lB9TdYMP07X2BQzeYOoIgmrrMWJt5eM5aLNs1Q2rA1YUOxbCqG\_Q)
 
 If you need help finding it, click [here](https://www.carmd.com/obd-port-location/). You may have to check a few places to find the port.
