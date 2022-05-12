@@ -8,10 +8,14 @@ description: Let's get you started on installation!
 
 1. [Step 1: Check the Contents of Your Package ](whats-included.md#step-1-check-the-contents)
 2. [Step 2: Watch the Installation Video](whats-included.md#installation-video)
-3. [Step 3: Review these Instructions ](whats-included.md#step-3-review-the-instructions)
+3. [Step 3: Place the Device and Pair in the DIMO Mobile App](whats-included.md#step-3-review-the-instructions)
 4. Step 4: Get going!
 
 ## Before you Start: 🚨Warnings and ⚠️Key Info
+
+Run into problems? Email support@dimo.zone or come to Discord.
+
+Do you want to speak with someone? Book a time (CREATE LINK)
 
 You're early! The install process may not be perfect and there may be some kinks to iron out.
 
@@ -46,22 +50,20 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 ✅ If everything looks good, let's move on to the next step!
 
-## Step 3: Watch the Installation Video
+## Step 2: Watch the Installation Video
 
 (in final review, coming soon)
 
-
-
 ✅ Got all that? You can read through it all below:
 
-## Step 3: Review these Instructions
+## Step 3: Place the Device and Pair in the DIMO Mobile App
 
-1. Locate your OBD2 port
-2. Select a Device Location with your Extension Cable
-3. Follow the Pairing Process in the DIMO Mobile app
+1. [Locate Your OBD2 Port](whats-included.md#1-locate-the-obd2-port)
+2. [Select a Device Location with your Extension Cable](whats-included.md#2-select-a-device-location-with-your-extension-cable)
+3. [Follow the Pairing Process in the DIMO Mobile app](whats-included.md#3-follow-the-pairing-process-in-the-dimo-mobile-app.)
 4. Secure the Device
 
-### **1) Locate the OBD2 Port**&#x20;
+### **1) Locate Your OBD2 Port**&#x20;
 
 This specialized data port is usually under the dashboard below the steering wheel, but you may find it in a few other locations depending on your car. The port can be hard to find in some vehicles, but you should see a trapezoid shape with two rows of pins that looks like this:
 
@@ -94,15 +96,21 @@ We recommended the following options for places to install your AutoPi Device:
 You will need to download the DIMO mobile app to start your pairing process with your new device. You can download the IOS app [here](https://apps.apple.com/us/app/dimo-mobile/id1589486727) and the Android app [here](https://play.google.com/store/apps/details?id=com.dimo.driver).&#x20;
 {% endhint %}
 
-**1.** Open the DIMO mobile app on your iPhone or Android device. You will be asked to create or log into a DIMO mobile account.&#x20;
+#### **Create an Account and add your Car**
 
-{% hint style="success" %}
-If you have already added a vehicle to your account, skip step 2c
-{% endhint %}
+If you already have an account and have added your car, [click here to jump ahead](whats-included.md#undefined). ****&#x20;
+
+* Open the DIMO **M**obile app on your iPhone or Android device and create an account. If you create an account with youre emai
 
 **2A.**) Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button!\
 \
-**2B.**) Tell us about your vehicle! Type in the make and model of your vehicle and select it from the drop down list. You will now select the year of your vehicle and click the Add vehicle button! Select connect with a DIMO miner. Then proceed to **Step 3**\
+**2B.**) Tell us about your vehicle! Type in the make and model of your vehicle and select it from the drop down list. You will now select the year of your vehicle and click the Add vehicle button! Select connect with a DIMO miner. Then proceed to **Step 3**
+
+#### Begin Pairing
+
+**I already added my vehicle in the app.**
+
+**1.** \
 ****\
 **2C**.) Select your vehicle in your home screen, and select connect with a DIMO miner
 
