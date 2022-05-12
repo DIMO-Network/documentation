@@ -34,7 +34,7 @@
 
 ## 🔧 Install
 
-* [Your DIMO Device Just Arrived!](install/whats-included.md)
+* [DIMO Device Installation Instructions](install/dimo-device-installation-instructions.md)
 * [How to install your DIMO device](install/how-to-install-your-dimo-device.md)
 * [How to pair your device!](install/how-to-pair-your-device.md)
 

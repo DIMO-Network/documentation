@@ -2,15 +2,15 @@
 description: Let's get you started on installing it.
 ---
 
-# Your DIMO Device Just Arrived!
+# DIMO Device Installation Instructions
 
-Step 1: Make sure you got all the&#x20;
+Step 1: Check the Contents
 
 Step 2: Watch the video
 
 Step 3: Use the detailed instructions&#x20;
 
-## What you should have received:
+## Step 1: Check the contents
 
 In the box you should have received the following
 
@@ -36,4 +36,6 @@ If you think anything is broken, defective or missing, please email support@dimo
 ✅ If everything looks good, let's move on to the next step!
 
 ## Installation Video
+
+(in final review, coming soon)
 
