@@ -26,9 +26,12 @@ If you have already added a vehicle to your account, skip step 2c
 Keep in mind that we currently only support cars 10 years old and newer
 {% endhint %}
 
-**3.)** Verify you have all of the following before continuing. Your phone has stable internet connection via wifi or cell service. You have access to the vehicle that you want to use your hardware with. (optional) A working camera on your mobile device&#x20;
+**3.)** Verify you have all of the following before continuing. \
+Your phone has stable internet connection via wifi or cell service.\
+You have access to the vehicle that you want to use your hardware with. \
+(optional) A working camera on your mobile device&#x20;
 
-**4.)** Add in your vehicles 17 character VIN and click “Enter”.&#x20;
+**4.)** Add in your vehicle's 17 character VIN and click “Enter”.&#x20;
 
 {% hint style="info" %}
 If you need help locating your VIN, click [here](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.).&#x20;
