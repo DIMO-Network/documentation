@@ -1,5 +1,5 @@
 ---
-description: The DIMO mobile app will be your gateway to to the network.
+description: In this guide we will be going over how to pair your DIMO hardware device.
 ---
 
 # How to pair your device!
@@ -10,25 +10,35 @@ You will need to download the DIMO mobile app to start your pairing process with
 
 
 
-**Step 1**\
-****Open the DIMO mobile app on your iPhone or Android device. You will be asked to create or log into a DIMO mobile account.&#x20;
+**1.** Open the DIMO mobile app on your iPhone or Android device. You will be asked to create or log into a DIMO mobile account.&#x20;
 
-{% hint style="info" %}
-If you have already added a vehicle to your account, you can skip step 2
+{% hint style="success" %}
+If you have already added a vehicle to your account, skip step 2c
 {% endhint %}
 
-**Step 2**\
-Welcome to the DIMO app, you will now be on the home screen, aIf you already had an account in Step 1, then you will click on the vehicle you want to add a device to, and then proceed to Step 3b
+**2A.**) Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button!\
+\
+**2B.**) Tell us about your vehicle! Type in the make and model of your vehicle and select it from the drop down list. You will now select the year of your vehicle and click the Add vehicle button! Select connect with a DIMO miner. Then proceed to **Step 3**\
+****\
+**2C**.) Select your vehicle in your home screen, and select connect with a DIMO miner
 
-**Select which type of connection that you would like to proceed with. In this guide, we will be going over AutoPi connection, so click that option. Then proceed to Step 4**
+{% hint style="danger" %}
+Keep in mind that we currently only support cars 10 years old and newer
+{% endhint %}
 
-**Step 4) Click “Pair my Dimo Miner” and proceed to Step 5**
+**3.)** Verify you have all of the following before continuing. Your phone has stable internet connection via wifi or cell service. You have access to the vehicle that you want to use your hardware with. (optional) A working camera on your mobile device&#x20;
 
-**Step 5) Once you have a stable WiFi or cellular connection, access to your car, and access to your AutoPi, click “I’m Ready”, and proceed to Step 6**
+**4.)** Add in your vehicles 17 character VIN and click “Enter”.&#x20;
 
-**Step 6) Enter your Car’s VIN and click “Enter”. If you need help locating your VIN, click** [**here**](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.)**. After you’ve entered your VIN, move to Step 7**
+{% hint style="info" %}
+If you need help locating your VIN, click [here](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.).&#x20;
+{% endhint %}
 
-**Step 7) Click either option, depending on whether you want to scan your barcode or enter it manually. Both options will be explained in Step 8**
+**5.)** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app. You will now scan your barcode on your device, if it is succesful, you will see a check mark.&#x20;
+
+{% hint style="warning" %}
+If you do not have a working camera or you cannot get the barcode to scan, you can input the device iD manually in the app
+{% endhint %}
 
 Step 8) Your device’s barcode will be found on the side of the device, on a white label. If you're scanning the barcode, then place both of the brackets on the screen and click the checkmark inside the circle. Proceed to Step 9 If you’re entering the device ID manually, then copy the alpha-numerical code at the bottom of the barcode. Proceed to Step 9
 
