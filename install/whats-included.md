@@ -68,7 +68,7 @@ If you think anything is broken, defective or missing, please email support@dimo
 1. [Locate Your OBD2 Port](whats-included.md#1-locate-the-obd2-port)
 2. [Select a Device Location with your Extension Cable](whats-included.md#2-select-a-device-location-with-your-extension-cable)
 3. [Follow the Pairing Process in the DIMO Mobile app](whats-included.md#3-follow-the-pairing-process-in-the-dimo-mobile-app.)
-4. Secure the Device
+4. [Secure the Device](whats-included.md#4-secure-the-device)
 
 ### **1) Locate Your OBD2 Port**&#x20;
 
@@ -123,7 +123,7 @@ Verify you have all of the following before continuing.&#x20;
 
 **1.** Select your vehicle in your home screen, and select connect with a DIMO miner
 
-**4.)** Add in your vehicle's 17 character VIN and click “Enter”.&#x20;
+**4.)** Add in your vehicle's 17 character VIN and click “Enter”.  \[WHERE TO FIND VIN]
 
 {% hint style="danger" %}
 Keep in mind that we currently only support cars 10 years old and newer
@@ -141,13 +141,11 @@ If you do not have a working camera or you cannot get the barcode to scan, you c
 
 **6.)** Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition. Wait for your device to boot up and show both a solid green and blue light. Once you have verified both lights are on select “I’m plugged in” to continue.&#x20;
 
+The AutoPi Miner then connects via 4G and configures itself for your vehicle. This may take up to 15 minutes, and you may need to drive around if you’re in an area with poor cell coverage.
+
 **7.)** Congratulations! You now have your vehicle connected with DIMO! Take your car out for a drive and watch all the data flow in.&#x20;
 
 ### **4) Secure the Device**
 
 Once you’ve found the ideal location for the device, first use the provided alcohol swab to wipe down the area, then use the provided double-sided tape to secure the AutoPi in the swabbed area
-
-****
-
-The AutoPi Miner then connects via 4G and configures itself for your vehicle. This may take up to 15 minutes, and you may need to drive around if you’re in an area with poor cell coverage.
 
