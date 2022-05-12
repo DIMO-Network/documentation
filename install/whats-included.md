@@ -39,6 +39,9 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 Do not put this device on an airbag panel.
 
+Once the AutoPi is plugged in it will power on/off automatically, (sometimes you will need to start your vehicle). The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts. You may see lights flashing when you shut your vehicle off, but this will not kill your battery. It’s just temporary.\
+
+
 ## Step 3: Watch the Installation Video
 
 (in final review, coming soon)
@@ -51,7 +54,8 @@ Do not put this device on an airbag panel.
 
 1. Locate your OBD2 port
 2. Select a Device Location with your Extension Cable
-3. Follow the Pairing Process in the DIMO Mobile app.&#x20;
+3. Follow the Pairing Process in the DIMO Mobile app
+4. Secure the Device
 
 ### **1) Locate the OBD2 Port**&#x20;
 
@@ -69,7 +73,7 @@ If you need help finding it, click [here](https://www.carmd.com/obd-port-locatio
 
 Depending on where your OBD2 port is, if you install the AutoPi directly into it, it can be in the way when you drive. **Most people will need to use the extension cord to install the device in a place where it will not be in the way.**&#x20;
 
-{% hint style="info" %}
+{% hint style="warning" %}
 You may want to experiment with a few locations by sitting in your driver's seat with the device plugged in. You can try it with the extension cord, or without.&#x20;
 {% endhint %}
 
@@ -80,16 +84,54 @@ We recommended the following options for places to install your AutoPi Device:
 3. Route under the floor mat and store in rear seat pocket
 4. Store inside vehicle trim (may require some removal/replacement)
 
-
-
 ### 3) Follow the Pairing Process in the DIMO Mobile app.&#x20;
+
+{% hint style="success" %}
+You will need to download the DIMO mobile app to start your pairing process with your new device. You can download the IOS app [here](https://apps.apple.com/us/app/dimo-mobile/id1589486727) and the Android app [here](https://play.google.com/store/apps/details?id=com.dimo.driver).&#x20;
+{% endhint %}
+
+**1.** Open the DIMO mobile app on your iPhone or Android device. You will be asked to create or log into a DIMO mobile account.&#x20;
+
+{% hint style="success" %}
+If you have already added a vehicle to your account, skip step 2c
+{% endhint %}
+
+**2A.**) Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button!\
+\
+**2B.**) Tell us about your vehicle! Type in the make and model of your vehicle and select it from the drop down list. You will now select the year of your vehicle and click the Add vehicle button! Select connect with a DIMO miner. Then proceed to **Step 3**\
+****\
+**2C**.) Select your vehicle in your home screen, and select connect with a DIMO miner
+
+{% hint style="danger" %}
+Keep in mind that we currently only support cars 10 years old and newer
+{% endhint %}
+
+**3.)** Verify you have all of the following before continuing. \
+Your phone has stable internet connection via wifi or cell service.\
+You have access to the vehicle that you want to use your hardware with. \
+(optional) A working camera on your mobile device&#x20;
+
+**4.)** Add in your vehicle's 17 character VIN and click “Enter”.&#x20;
+
+{% hint style="info" %}
+If you need help locating your VIN, click [here](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.).&#x20;
+{% endhint %}
+
+**5.)** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app. Proceed to scan the barcode on your device, you will see a checkmark if it has successfully scanned.&#x20;
+
+{% hint style="warning" %}
+If you do not have a working camera or you cannot get the barcode to scan, you can input the device iD manually in the app
+{% endhint %}
+
+**6.)** Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition. Wait for your device to boot up and show both a solid green and blue light. Once you have verified both lights are on select “I’m plugged in” to continue.&#x20;
+
+**7.)** Congratulations! You now have your vehicle connected with DIMO! Take your car out for a drive and watch all the data flow in.&#x20;
+
+### **4) Secure the Device**
 
 Once you’ve found the ideal location for the device, first use the provided alcohol swab to wipe down the area, then use the provided double-sided tape to secure the AutoPi in the swabbed area
 
-### ****
+****
 
-\
-Once the AutoPi is plugged in it will power on/off automatically, (sometimes you will need to start your vehicle). The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts. You may see lights flashing when you shut your vehicle off, but this will not kill your battery. It’s just temporary.\
-\
 The AutoPi Miner then connects via 4G and configures itself for your vehicle. This may take up to 15 minutes, and you may need to drive around if you’re in an area with poor cell coverage.
 
