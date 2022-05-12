@@ -34,14 +34,12 @@ Keep in mind that we currently only support cars 10 years old and newer
 If you need help locating your VIN, click [here](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.).&#x20;
 {% endhint %}
 
-**5.)** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app. You will now scan your barcode on your device, if it is succesful, you will see a check mark.&#x20;
+**5.)** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app. Proceed to scan the barcode on your device, you will see a checkmark if it has successfully scanned.&#x20;
 
 {% hint style="warning" %}
 If you do not have a working camera or you cannot get the barcode to scan, you can input the device iD manually in the app
 {% endhint %}
 
-Step 8) Your device’s barcode will be found on the side of the device, on a white label. If you're scanning the barcode, then place both of the brackets on the screen and click the checkmark inside the circle. Proceed to Step 9 If you’re entering the device ID manually, then copy the alpha-numerical code at the bottom of the barcode. Proceed to Step 9
+**6.)** Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition. Wait for your device to boot up and show both a solid green and blue light. Once you have verified both lights are on select “I’m plugged in” to continue.&#x20;
 
-**Step 9) Plug in your AutoPi Miner to the OBD-II port, and click “I’m plugged in”. To confirm that your device is paired, check Step 10**
-
-**Step 10) (optional) To confirm you car is connected, check to see if you have the connected symbol under or above your vehicle. This should look like a WiFi symbol that has all green bars. If you see this, your car is connected correctly.**
+**7.)** Congratulations! You now have your vehicle connected with DIMO! Take your car out for a drive and watch all the data flow in.&#x20;
