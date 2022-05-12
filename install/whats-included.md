@@ -13,15 +13,21 @@ description: Let's get you started on installation!
 
 ## Before you Start: 🚨Warnings and ⚠️Key Info
 
-Run into problems? Email support@dimo.zone or come to Discord.
+### Getting Help from a Person
 
-Do you want to speak with someone? Book a time (CREATE LINK)
+* Run into problems? Email support@dimo.zone or come to Discord.
+* Do you want to book a time to speak with someone? Book a time (CREATE LINK)
 
-You're early! The install process may not be perfect and there may be some kinks to iron out.
+### Warnings
 
-Do not put this device on an airbag panel.
+* You're early! The install process may not be perfect and there may be some kinks to iron out.
+* Do not put this device on an airbag panel.
 
-Once the AutoPi is plugged in it will power on/off automatically, (sometimes you will need to start your vehicle). The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts. You may see lights flashing when you shut your vehicle off, but this will not kill your battery. It’s just temporary.
+### Other things to Know
+
+* **How the AutoPi Operates.** Once the AutoPi is plugged in it will power on/off automatically, (sometimes you will need to start your vehicle). The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts.&#x20;
+* **Lights on the AutoPi**. The lights on the AutoPi may stay on or flash when you shut your vehicle off, but this will not kill your battery. It’s just temporary.
+* **Unusual Occurrences**. If you notice anything unusual after plugging in your device
 
 ✅ All good? Let's get going.&#x20;
 
