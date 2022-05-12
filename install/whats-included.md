@@ -5,9 +5,10 @@ description: Let's get you started on installing it.
 # DIMO Device Installation Instructions
 
 1. [Step 1: Check the Contents](whats-included.md#step-1-check-the-contents)
-2. [Step 2: Watch the Video](whats-included.md#installation-video)
-3. [Step 3: Review the Instructions ](whats-included.md#step-3-review-the-instructions)
-4. Step 4: Get going!
+2. Step 2: Review the Warnings
+3. [Step 2: Watch the Installation Video](whats-included.md#installation-video)
+4. [Step 3: Review the Instructions ](whats-included.md#step-3-review-the-instructions)
+5. Step 4: Get going!
 
 ## Step 1: Check the contents
 
@@ -34,17 +35,17 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 ✅ If everything looks good, let's move on to the next step!
 
-## Step 2: Watch the Installation Video
+## 🚨 Step 2: Review the Warnings
+
+Do not put this device on an airbag panel.
+
+## Step 3: Watch the Installation Video
 
 (in final review, coming soon)
 
 
 
 ✅ Got all that? You can read through it all below:
-
-## Review the warnings
-
-Do not put this device on an airbag panel.
 
 ## Step 3: Review the Instructions
 
