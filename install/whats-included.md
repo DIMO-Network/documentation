@@ -25,7 +25,7 @@ description: Let's get your car connected!
 
 ### Other things to Know
 
-* **How the AutoPi Operates.** Once the AutoPi is plugged in it will power on/off automatically, (sometimes you will need to start your vehicle). The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts.&#x20;
+* **How the AutoPi Operates.** Once the AutoPi is plugged in it will power on/off automatically. The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts to protect your battery. It will update its own software automatically when we push new updates.&#x20;
 * **Lights on the AutoPi**. The lights on the AutoPi may stay on or flash when you shut your vehicle off, but this will not kill your battery. It’s just temporary.
 * **Unusual Occurrences**. If you notice anything unusual after plugging in your device like a check engine light, we want to hear from you. Between AutoPi and DIMO, there are thousands of devices in the field, and we're confident this will not impact your vehicle operations, but we can help troubleshoot and make sure everything is normal and alarms clear.&#x20;
 * **How the device works.** We won't cover that here, but if you'd like to learn more, [click here](https://blog.dimo.zone/understanding-your-dimo-miner-and-its-data/).
@@ -97,40 +97,37 @@ We recommended the following options for places to install your AutoPi Device:
 3. Route under the floor mat and store in rear seat pocket
 4. Store inside vehicle trim (may require some removal/replacement)
 
-### 3) Follow the Pairing Process in the DIMO Mobile app.&#x20;
+### 3) Pairing Process in the DIMO Mobile app.&#x20;
 
 {% hint style="success" %}
 You will need to download the DIMO mobile app to start your pairing process with your new device. You can download the IOS app [here](https://apps.apple.com/us/app/dimo-mobile/id1589486727) and the Android app [here](https://play.google.com/store/apps/details?id=com.dimo.driver).&#x20;
 {% endhint %}
 
-#### **Create an Account and add your Car**
+#### **1) Create an Account and Add Your Car**
 
 If you already have an account and have added your car, [click here to jump ahead](whats-included.md#undefined). ****&#x20;
 
-* Open the DIMO **M**obile app on your iPhone or Android device and create an account. If you create an account with youre emai
-
-**2A.**) Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button!\
-\
-**2B.**) Tell us about your vehicle! Type in the make and model of your vehicle and select it from the drop down list. You will now select the year of your vehicle and click the Add vehicle button! Select connect with a DIMO miner. Then proceed to **Step 3**
+* Open the DIMO Mobile app on your iPhone or Android device and create an account. **If you create an account with your email address, you can add a crypto wallet later.**&#x20;
+* Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button!
+* Tell us about your vehicle! Type in the make and model of your vehicle and select it from the drop down list. You will now select the year of your vehicle and click the Add vehicle button! Select connect with a DIMO miner. Then proceed to **Step 3**
 
 #### Begin Pairing
 
-**I already added my vehicle in the app.**
+{% hint style="warning" %}
+Verify you have all of the following before continuing.&#x20;
 
-**1.** \
-****\
-**2C**.) Select your vehicle in your home screen, and select connect with a DIMO miner
+* Your phone has stable internet connection via wifi or cell service.
+* You have access to the vehicle that you want to use your hardware with.&#x20;
+* (optional) A working camera on your mobile device&#x20;
+{% endhint %}
+
+**1.** Select your vehicle in your home screen, and select connect with a DIMO miner
+
+**4.)** Add in your vehicle's 17 character VIN and click “Enter”.&#x20;
 
 {% hint style="danger" %}
 Keep in mind that we currently only support cars 10 years old and newer
 {% endhint %}
-
-**3.)** Verify you have all of the following before continuing. \
-Your phone has stable internet connection via wifi or cell service.\
-You have access to the vehicle that you want to use your hardware with. \
-(optional) A working camera on your mobile device&#x20;
-
-**4.)** Add in your vehicle's 17 character VIN and click “Enter”.&#x20;
 
 {% hint style="info" %}
 If you need help locating your VIN, click [here](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.).&#x20;
