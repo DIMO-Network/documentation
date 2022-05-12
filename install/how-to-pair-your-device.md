@@ -10,14 +10,9 @@ You will need to download the DIMO mobile app to start your pairing process with
 
 
 
-**1.** Open the DIMO mobile app on your iPhone or Android device. You will be asked to create or log into a DIMO mobile account.&#x20;
+**1.** Open the DIMO mobile app on your iPhone or Android device. You will be asked to create or log into a DIMO mobile account. If you have already added a vehicle to your account, skip step 2c
 
-{% hint style="success" %}
-If you have already added a vehicle to your account, skip step 2c
-{% endhint %}
-
-**2A.**) Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button!\
-\
+**2A.**) Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button! \
 **2B.**) Tell us about your vehicle! Type in the make and model of your vehicle and select it from the drop down list. You will now select the year of your vehicle and click the Add vehicle button! Select connect with a DIMO miner. Then proceed to **Step 3**\
 ****\
 **2C**.) Select your vehicle in your home screen, and select connect with a DIMO miner
