@@ -6,9 +6,9 @@ description: Let's get your car connected!
 
 [READ: Before you Start ](whats-included.md#before-you-start-warnings-and-key-info)
 
-1. [Step 1: Check the Contents of Your Package ](whats-included.md#step-1-check-the-contents-of-your-package)
-2. [Step 2: Watch the Installation Video](whats-included.md#step-2-watch-the-installation-video)
-3. [Step 3: Place the Device and Pair in the DIMO Mobile App](whats-included.md#step-3-place-the-device-and-pair-in-the-dimo-mobile-app)
+1. [Step 1: Check the Contents of Your Package ](whats-included.md#step-1-check-the-contents)
+2. [Step 2: Watch the Installation Video](whats-included.md#installation-video)
+3. [Step 3: Install the Device and Pair in the DIMO Mobile App](whats-included.md#step-3-review-the-instructions)
 4. Step 4: Get going!
 
 ## Before you Start: 🚨Warnings and ⚠️Key Info
@@ -22,24 +22,25 @@ description: Let's get your car connected!
 
 * You're early! The install process may not be perfect and there may be some kinks to iron out.
 * Do not put this device on an airbag panel.
+* What else?
 
 ### Other things to Know
 
 * **How the AutoPi Operates.** Once the AutoPi is plugged in it will power on/off automatically. The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts to protect your battery. It will update its own software automatically when we push new updates.&#x20;
-* **Lights on the AutoPi**. The lights on the AutoPi may stay on or flash when you shut your vehicle off, but this will not kill your battery. It’s just temporary.
+* **Lights on the AutoPi**. The lights on the AutoPi may stay on or flash when you shut your vehicle off, but this will not kill your battery. It’s just temporary and the AutoPi will hibernate.
 * **Unusual Occurrences**. If you notice anything unusual after plugging in your device like a check engine light, we want to hear from you. Between AutoPi and DIMO, there are thousands of devices in the field, and we're confident this will not impact your vehicle operations, but we can help troubleshoot and make sure everything is normal and alarms clear.&#x20;
 * **How the device works.** We won't cover that here, but if you'd like to learn more, [click here](https://blog.dimo.zone/understanding-your-dimo-miner-and-its-data/).
 
-✅ All good? Let's get going.&#x20;
+✅ All good? Let's get going!
 
 ## Step 1: Check the Contents of Your Package
 
 In the box you should have received the following items:
 
-* **DIMO Miner** (SIM card is already installed and active)
+* **DIMO Miner** SIM card is already installed and active)
 * **OBD2 extension cord** for the DIMO Miner to find a comfortable mounting position
-* **Alcohol swab** (for cleaning the area that you will mount your device)
-* **Velcro / 3M Adhesive Tape** (for mounting the device to a safe space in your car)
+* **Alcohol swab** for cleaning the area that you will mount your device)
+* **Velcro / 3M Adhesive Tape** for mounting the device to a safe space in your car)
 * **Informational card** with QR codes that link to: (1) the DIMO Mobile App and (2) these instructions here
 * **DIMO Stickers** just for fun!
 
@@ -63,7 +64,7 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 ✅ Got all that? You can read through it all below:
 
-## Step 3: Place the Device and Pair in the DIMO Mobile App
+## Step 3: Install the Device and Pair in the DIMO Mobile App
 
 1. [Locate Your OBD2 Port](whats-included.md#1-locate-the-obd2-port)
 2. [Select a Device Location with your Extension Cable](whats-included.md#2-select-a-device-location-with-your-extension-cable)
@@ -145,7 +146,11 @@ The AutoPi Miner then connects via 4G and configures itself for your vehicle. Th
 
 **7.)** Congratulations! You now have your vehicle connected with DIMO! Take your car out for a drive and watch all the data flow in.&#x20;
 
+
+
 ### **4) Secure the Device**
 
 Once you’ve found the ideal location for the device, first use the provided alcohol swab to wipe down the area, then use the provided double-sided tape to secure the AutoPi in the swabbed area
+
+You may want to consider the different size OBD2 ports. Amazon has lots of them (link)
 
