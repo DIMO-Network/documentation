@@ -113,12 +113,12 @@ You can download the IOS app [here](https://apps.apple.com/us/app/dimo-mobile/id
 
 If you already have an account and have added your car, click here to [Begin Pairing](whats-included.md#begin-pairing). ****&#x20;
 
-* Open the DIMO Mobile app on your iPhone or Android device and create an account. **If you create an account with your email address, you can add a crypto wallet later.**&#x20;
-* Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button!
-* Tell us about your vehicle! Type in the make and model of your vehicle and select it from the drop down list. You will now select the year of your vehicle and click the Add vehicle button! Select connect with a DIMO miner. Now we can start pairing!
+* Open the DIMO Mobile app on your iPhone or Android device and create an account. **If you create an account with your email address, you can add a crypto wallet later.**  <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line">****
+* Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button! <img src="../.gitbook/assets/image (6).png" alt="" data-size="line">
+* Tell us about your vehicle! Type in the make and model of your vehicle and select it from the drop down list. You will now select the year of your vehicle and click the Add vehicle button! Select connect with a DIMO miner. Now we can start pairing!&#x20;
 
 {% hint style="warning" %}
-Verify you have all of the following before continuing.&#x20;
+Verify you have all of the following before continuing. <img src="../.gitbook/assets/image (7).png" alt="" data-size="line">
 
 * Your phone has stable internet connection via Wi-Fi or cell service.
 * You have access to the vehicle that you want to use your hardware with.&#x20;
@@ -129,13 +129,16 @@ Verify you have all of the following before continuing.&#x20;
 
 #### C-2) Begin Pairing&#x20;
 
-* &#x20;**** Select your vehicle in your home screen, and select connect with a DIMO miner
-* &#x20;**** Add in your vehicle's 17 character VIN and click “Enter”. Click [Here](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.) for help finding your VIN
-* &#x20;**** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app.
-* Scan the barcode on your device, if successful you will see a checkmark in your app.
-* Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition.
+* &#x20;**** Select your vehicle in your home screen, and select connect with a DIMO miner ![](<../.gitbook/assets/image (6).png>)
+
+{% file src="../.gitbook/assets/IMG_0267.png" %}
+
+* &#x20;**** Add in your vehicle's 17 character VIN and click “Enter”. Click [Here](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.) for help finding your VIN <img src="../.gitbook/assets/IMG_0268.png" alt="" data-size="line">
+* &#x20;**** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app. <img src="../.gitbook/assets/image (10).png" alt="" data-size="line">
+* Scan the barcode on your device, if successful you will see a checkmark in your app. <img src="../.gitbook/assets/IMG_0272.png" alt="" data-size="line">
+* Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition. <img src="../.gitbook/assets/IMG_0273.png" alt="" data-size="line">
 * Wait for your device to power one and show both a solid green and blue light.&#x20;
-* Once you have verified both lights are on and solid select “I’m plugged in” to continue.
+* Once you have verified both lights are on and solid select “I’m plugged in” to continue.&#x20;
 * You're all set up! Your DIMO miner is fully configured. You'll now see your data show in your mobile app/ &#x20;
 
 {% hint style="info" %}

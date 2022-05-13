@@ -14,7 +14,7 @@ Today, Automotive OEMs control the digital identity of a vehicle by issuing a co
 
 Sybil attacks are not a unique problem to DIMO, but the existing trust models of the automotive industry provide unique tools to validate (1) a car exists and has certain properties, (2) the user has ownership of that car, and (3) it has actually been driven.
 
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 Each device in the DIMO network will have its own DID (Decentralized Identity) which conforms to a [W3C standard](https://www.w3.org/TR/did-core/). Such identity exists without any central authority and is securely and privately linked to other identities (e.g., an owner and authorized drivers). This allows the device to manage its own data and, in the future, transact with other devices.
 
