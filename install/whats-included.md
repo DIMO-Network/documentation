@@ -129,16 +129,13 @@ Verify you have all of the following before continuing. <img src="../.gitbook/as
 
 #### C-2) Begin Pairing&#x20;
 
-* &#x20;**** Select your vehicle in your home screen, and select connect with a DIMO miner ![](<../.gitbook/assets/image (6).png>)
-
-{% file src="../.gitbook/assets/IMG_0267.png" %}
-
+* &#x20;**** Select your vehicle in your home screen, and select connect with a DIMO miner&#x20;
 * &#x20;**** Add in your vehicle's 17 character VIN and click “Enter”. Click [Here](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.) for help finding your VIN <img src="../.gitbook/assets/IMG_0268.png" alt="" data-size="line">
 * &#x20;**** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app. <img src="../.gitbook/assets/image (10).png" alt="" data-size="line">
 * Scan the barcode on your device, if successful you will see a checkmark in your app. <img src="../.gitbook/assets/IMG_0272.png" alt="" data-size="line">
 * Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition. <img src="../.gitbook/assets/IMG_0273.png" alt="" data-size="line">
 * Wait for your device to power one and show both a solid green and blue light.&#x20;
-* Once you have verified both lights are on and solid select “I’m plugged in” to continue.&#x20;
+* Once you have verified both lights are on and solid select “I’m plugged in” to continue. <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
 * You're all set up! Your DIMO miner is fully configured. You'll now see your data show in your mobile app/ &#x20;
 
 {% hint style="info" %}
