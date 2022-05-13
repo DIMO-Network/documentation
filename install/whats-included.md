@@ -73,7 +73,7 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 ### **A: Locate Your OBD2 Port**&#x20;
 
-This specialized data port is usually under the dashboard below the steering wheel, but you may find it in a few other locations depending on your car. Refer to this picture for areas on where the port might be: <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> (click to expand)\
+This specialized data port is usually under the dashboard below the steering wheel, but you may find it in a few other locations depending on your car. Refer to this picture for areas on where the port might be: <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> (click to expand)\
 \
 The port may be hard to find in some vehicles, but you should see a trapezoid shape with two rows of pins that looks like this: <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> (click to expand)
 
@@ -136,7 +136,7 @@ Verify you have all of the following before continuing. <img src="../.gitbook/as
 * Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition.
 * Wait for your device to power one and show both a solid green and blue light.&#x20;
 * Once you have verified both lights are on and solid select “I’m plugged in” to continue. <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
-* You're all set up! Your DIMO miner is fully configured. You'll now see your data show in your mobile app/ &#x20;
+* You're all set up! Your DIMO miner is fully configured. You'll now see your data show in your mobile app <img src="../.gitbook/assets/image (4).png" alt="" data-size="line">
 
 {% hint style="info" %}
 The DIMO Miner connects via 4G cell service and configures itself for your vehicle. This can awhile to connect if you are in an area with poor cell coverage. You may need to drive somewhere for a stronger connection. A solid green light means it has connected/&#x20;
