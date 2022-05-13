@@ -6,10 +6,10 @@ description: Let's get your car connected!
 
 [READ: Before you Start ](whats-included.md#before-you-start-warnings-and-key-info)
 
-* [Step 1: Check the Contents of Your Package ](whats-included.md#step-1-check-the-contents)
-* [Step 2: Watch the Installation Video](whats-included.md#installation-video)
-* [Step 3: Install the Device and Pair in the DIMO Mobile App](whats-included.md#step-3-review-the-instructions)
-* [Step 4: Get going!](whats-included.md#4.)
+* [Step 1: Check the Contents of Your Package ](whats-included.md#step-1-check-the-contents-of-your-package)
+* [Step 2: Watch the Installation Video](whats-included.md#step-2-watch-the-installation-video)
+* [Step 3: Install the Device and Pair in the DIMO Mobile App](whats-included.md#step-3-install-the-device-and-pair-in-the-dimo-mobile-app)
+* [Step 4: Get going!](whats-included.md#step-4-get-going)
 
 ## Before you Start: 🚨Warnings and ⚠️Key Info
 
