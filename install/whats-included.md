@@ -142,9 +142,7 @@ Verify you have all of the following before continuing.&#x20;
 The DIMO Miner connects via 4G cell service and configures itself for your vehicle. This can awhile to connect if you are in an area with poor cell coverage. You may need to drive somewhere for a stronger connection. A solid green light means it has connected/&#x20;
 {% endhint %}
 
-
-
-
-
 ## Step 4: Get going!&#x20;
+
+Congratulations! You have just paired your first DIMO device. You have taken your first step in owning your data. You can learn more about rewards [here](broken-reference). You can learn more about how your data can be used [here](../overview/starting-with-cars.md). You can learn how to claim your NFT [here](broken-reference).
 
