@@ -75,13 +75,9 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 This specialized data port is usually under the dashboard below the steering wheel, but you may find it in a few other locations depending on your car. The port can be hard to find in some vehicles, but you should see a trapezoid shape with two rows of pins that looks like this:
 
-(Click to expand this picture)&#x20;
-
-![](https://lh5.googleusercontent.com/hkXE-AsMhWARWfSRr15AZpm-PBvV8\_ZcEelbtBlnohZ5K0rXlUlY8nBgeDRvGL55dEM1GtT9jpasNV-z29ckqpW2tKK3\_5lB9TdYMP07X2BQzeYOoIgmrrMWJt5eM5aLNs1Q2rA1YUOxbCqG\_Q)
+(Click to expand these picture) <img src="../.gitbook/assets/image (8).png" alt="" data-size="line"><img src="../.gitbook/assets/image (7).png" alt="" data-size="line">
 
 If you need help finding it, click [here](https://www.carmd.com/obd-port-location/). You may have to check a few places to find the port.
-
-![](../.gitbook/assets/obd\_locate\_ports.jpeg)
 
 ### **2) Select a Device Location with your Extension Cable**
 
@@ -106,13 +102,13 @@ We recommended the following options for places to install your AutoPi Device:
 You will need to download the DIMO mobile app to start your pairing process with your new device. You can download the IOS app [here](https://apps.apple.com/us/app/dimo-mobile/id1589486727) and the Android app [here](https://play.google.com/store/apps/details?id=com.dimo.driver).&#x20;
 {% endhint %}
 
-#### **1) Create an Account and Add Your Car**
+#### **3.a) Create an Account and Add Your Car**
 
-If you already have an account and have added your car, [click here to jump ahead](whats-included.md#undefined). ****&#x20;
+If you already have an account and have added your car, click here to [Begin Pairing](whats-included.md#begin-pairing). ****&#x20;
 
 * Open the DIMO Mobile app on your iPhone or Android device and create an account. **If you create an account with your email address, you can add a crypto wallet later.**&#x20;
 * Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button!
-* Tell us about your vehicle! Type in the make and model of your vehicle and select it from the drop down list. You will now select the year of your vehicle and click the Add vehicle button! Select connect with a DIMO miner. Then proceed to **Step 3**
+* Tell us about your vehicle! Type in the make and model of your vehicle and select it from the drop down list. You will now select the year of your vehicle and click the Add vehicle button! Select connect with a DIMO miner. Now we can start pairing!
 
 #### Begin Pairing
 
@@ -124,9 +120,9 @@ Verify you have all of the following before continuing.&#x20;
 * (optional) A working camera on your mobile device&#x20;
 {% endhint %}
 
-**1.** Select your vehicle in your home screen, and select connect with a DIMO miner
+**b.)** Select your vehicle in your home screen, and select connect with a DIMO miner
 
-**4.)** Add in your vehicle's 17 character VIN and click “Enter”.  \[WHERE TO FIND VIN]
+**c.)** Add in your vehicle's 17 character VIN and click “Enter”.  \[WHERE TO FIND VIN]
 
 {% hint style="danger" %}
 Keep in mind that we currently only support cars 10 years old and newer
@@ -136,17 +132,17 @@ Keep in mind that we currently only support cars 10 years old and newer
 If you need help locating your VIN, click [here](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.).&#x20;
 {% endhint %}
 
-**5.)** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app. Proceed to scan the barcode on your device, you will see a checkmark if it has successfully scanned.&#x20;
+**3d.)** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app. Proceed to scan the barcode on your device, you will see a checkmark if it has successfully scanned.&#x20;
 
 {% hint style="warning" %}
 If you do not have a working camera or you cannot get the barcode to scan, you can input the device iD manually in the app
 {% endhint %}
 
-**6.)** Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition. Wait for your device to boot up and show both a solid green and blue light. Once you have verified both lights are on select “I’m plugged in” to continue.&#x20;
+**3e.)** Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition. Wait for your device to boot up and show both a solid green and blue light. Once you have verified both lights are on select “I’m plugged in” to continue.&#x20;
 
 The AutoPi Miner then connects via 4G and configures itself for your vehicle. This may take up to 15 minutes, and you may need to drive around if you’re in an area with poor cell coverage.
 
-**7.)** Congratulations! You now have your vehicle connected with DIMO! Take your car out for a drive and watch all the data flow in.&#x20;
+**3f.)** Congratulations! You now have your vehicle connected with DIMO! Take your car out for a drive and watch all the data flow in.&#x20;
 
 
 
