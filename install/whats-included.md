@@ -106,7 +106,6 @@ You may want to wait to mount the device in its location until after the mobile 
 ### 3) Pairing Process in the DIMO Mobile app.&#x20;
 
 {% hint style="success" %}
-You will need the  DIMO mobile app to pair your new device. \
 You can download the IOS app [here](https://apps.apple.com/us/app/dimo-mobile/id1589486727) and the Android app [here](https://play.google.com/store/apps/details?id=com.dimo.driver).&#x20;
 {% endhint %}
 
