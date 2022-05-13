@@ -73,28 +73,28 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 ### **1) Locate Your OBD2 Port**&#x20;
 
-This specialized data port is usually under the dashboard below the steering wheel, but you may find it in a few other locations depending on your car. The port can be hard to find in some vehicles, but you should see a trapezoid shape with two rows of pins that looks like this:
+This specialized data port is usually under the dashboard below the steering wheel, but you may find it in a few other locations depending on your car. Refer to this picture for areas on where the port might be: <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> (click to expand)\
+\
+The port may be hard to find in some vehicles, but you should see a trapezoid shape with two rows of pins that looks like this: <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> (click to expand)
 
-(Click to expand these picture) <img src="../.gitbook/assets/image (8).png" alt="" data-size="line"><img src="../.gitbook/assets/image (7).png" alt="" data-size="line">
-
-If you need help finding it, click [here](https://www.carmd.com/obd-port-location/). You may have to check a few places to find the port.
+{% hint style="info" %}
+If your port is hard to find. you can click [here](https://www.carmd.com/obd-port-location/) for help.&#x20;
+{% endhint %}
 
 ### **2) Select a Device Location with your Extension Cable**
 
-**You'll want to select a mounting location, but it's probably easier to go through the pairing process in the app before you finish mounting the device.**
+After locating your port, you may want to sit in the drivers seat to find your ideal mounting location. &#x20;
 
-Depending on where your OBD2 port is, if you install the AutoPi directly into it, it can be in the way when you drive. **Most people will need to use the extension cord to install the device in a place where it will not be in the way.**&#x20;
-
-{% hint style="warning" %}
-You may want to experiment with a few locations by sitting in your driver's seat with the device plugged in. You can try it with the extension cord, or without.&#x20;
-{% endhint %}
-
-We recommended the following options for places to install your AutoPi Device:
+We recommended the following options for places to install your DIMO Device:
 
 1. Attach to vehicle trim below steering column
 2. Attach directly to dashboard (not ideal in hotter climates with direct sunlight)
 3. Route under the floor mat and store in rear seat pocket
 4. Store inside vehicle trim (may require some removal/replacement)
+
+{% hint style="danger" %}
+Plugging in your DIMO device directly may result in a loose connection. This may cause the issues with the device in reported data correctly. We **recommend** the use of the included extension cord to install the device.
+{% endhint %}
 
 ### 3) Pairing Process in the DIMO Mobile app.&#x20;
 
