@@ -87,20 +87,27 @@ After locating your port, you may want to sit in the drivers seat to find your i
 
 We recommended the following options for places to install your DIMO Device:
 
-1. Attach to vehicle trim below steering column
-2. Attach directly to dashboard (not ideal in hotter climates with direct sunlight)
-3. Route under the floor mat and store in rear seat pocket
-4. Store inside vehicle trim (may require some removal/replacement)
+1. Use the included extension cord when installing the device.
+2. Attach to vehicle trim below steering column
+3. Attach directly to dashboard (not ideal in hotter climates with direct sunlight)
+4. Route under the floor mat and store in rear seat pocket
+5. Store inside vehicle trim (may require some removal/replacement)
 
 {% hint style="danger" %}
-Plugging in your DIMO device directly may result in a loose connection. This may cause issues with data accuracy, engine lights, or detachment from the OBD2 port. \
-We **recommend** the use of the included extension cord when installing the device.
+Plugging in your DIMO device directly may result in a loose connection. This may cause issues with data accuracy, engine lights, or detachment from the OBD2 port.&#x20;
+{% endhint %}
+
+Once you have found your ideal location for mounting,  wipe the area down with the included alcohol wipe. Attach the included Velcro or 3M tape to the device. Attach one end of the extension cable to the device and then plug in the other side into your OBD-2 port. Mount the device to your vehicle.&#x20;
+
+{% hint style="info" %}
+You may want to wait to mount the device in its location until after the mobile pairing has asked you to plug in the device.&#x20;
 {% endhint %}
 
 ### 3) Pairing Process in the DIMO Mobile app.&#x20;
 
 {% hint style="success" %}
-You will need to download the DIMO mobile app to start your pairing process with your new device. You can download the IOS app [here](https://apps.apple.com/us/app/dimo-mobile/id1589486727) and the Android app [here](https://play.google.com/store/apps/details?id=com.dimo.driver).&#x20;
+You will need the  DIMO mobile app to pair your new device. \
+You can download the IOS app [here](https://apps.apple.com/us/app/dimo-mobile/id1589486727) and the Android app [here](https://play.google.com/store/apps/details?id=com.dimo.driver).&#x20;
 {% endhint %}
 
 #### **3.a) Create an Account and Add Your Car**
