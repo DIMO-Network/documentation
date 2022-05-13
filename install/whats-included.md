@@ -6,10 +6,10 @@ description: Let's get your car connected!
 
 [READ: Before you Start ](whats-included.md#before-you-start-warnings-and-key-info)
 
-1. [Step 1: Check the Contents of Your Package ](whats-included.md#step-1-check-the-contents)
-2. [Step 2: Watch the Installation Video](whats-included.md#installation-video)
-3. [Step 3: Install the Device and Pair in the DIMO Mobile App](whats-included.md#step-3-review-the-instructions)
-4. Step 4: Get going!
+* [Step 1: Check the Contents of Your Package ](whats-included.md#step-1-check-the-contents)
+* [Step 2: Watch the Installation Video](whats-included.md#installation-video)
+* [Step 3: Install the Device and Pair in the DIMO Mobile App](whats-included.md#step-3-review-the-instructions)
+* [Step 4: Get going!](whats-included.md#4.)
 
 ## Before you Start: 🚨Warnings and ⚠️Key Info
 
@@ -66,12 +66,11 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 ## Step 3: Install the Device and Pair in the DIMO Mobile App
 
-1. [Locate Your OBD2 Port](whats-included.md#1-locate-the-obd2-port)
-2. [Select a Device Location with your Extension Cable](whats-included.md#2-select-a-device-location-with-your-extension-cable)
-3. [Follow the Pairing Process in the DIMO Mobile app](whats-included.md#3-follow-the-pairing-process-in-the-dimo-mobile-app.)
-4. [Secure the Device](whats-included.md#4-secure-the-device)
+* [Locate Your OBD2 Port](whats-included.md#1-locate-the-obd2-port)
+* [Select a Device Location with your Extension Cable](whats-included.md#2-select-a-device-location-with-your-extension-cable)
+* [Follow the Pairing Process in the DIMO Mobile app](whats-included.md#3-follow-the-pairing-process-in-the-dimo-mobile-app.)
 
-### **1) Locate Your OBD2 Port**&#x20;
+### **A) Locate Your OBD2 Port**&#x20;
 
 This specialized data port is usually under the dashboard below the steering wheel, but you may find it in a few other locations depending on your car. Refer to this picture for areas on where the port might be: <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> (click to expand)\
 \
@@ -81,7 +80,7 @@ The port may be hard to find in some vehicles, but you should see a trapezoid sh
 If your port is hard to find. you can click [here](https://www.carmd.com/obd-port-location/) for help.&#x20;
 {% endhint %}
 
-### **2) Select a Device Location with your Extension Cable**
+### **B) Select a Device Location with your Extension Cable**
 
 After locating your port, you may want to sit in the drivers seat to find your ideal mounting location. &#x20;
 
@@ -103,13 +102,13 @@ Once you have found your ideal location for mounting,  wipe the area down with t
 You may want to wait to mount the device in its location until after the mobile pairing has asked you to plug in the device.&#x20;
 {% endhint %}
 
-### 3) Pairing Process in the DIMO Mobile app.&#x20;
+### C) Pairing Process in the DIMO Mobile app.&#x20;
 
 {% hint style="success" %}
 You can download the IOS app [here](https://apps.apple.com/us/app/dimo-mobile/id1589486727) and the Android app [here](https://play.google.com/store/apps/details?id=com.dimo.driver).&#x20;
 {% endhint %}
 
-#### **3.a) Create an Account and Add Your Car**
+#### **C-1) Create an Account and Add Your Car**
 
 If you already have an account and have added your car, click here to [Begin Pairing](whats-included.md#begin-pairing). ****&#x20;
 
@@ -127,9 +126,9 @@ Verify you have all of the following before continuing.&#x20;
 * (optional) A working camera on your mobile device&#x20;
 {% endhint %}
 
-**b.)** Select your vehicle in your home screen, and select connect with a DIMO miner
+**C-2)** Select your vehicle in your home screen, and select connect with a DIMO miner
 
-**c.)** Add in your vehicle's 17 character VIN and click “Enter”.  \[WHERE TO FIND VIN]
+**C-3)** Add in your vehicle's 17 character VIN and click “Enter”.  \[WHERE TO FIND VIN]
 
 {% hint style="danger" %}
 Keep in mind that we currently only support cars 10 years old and newer
@@ -139,23 +138,19 @@ Keep in mind that we currently only support cars 10 years old and newer
 If you need help locating your VIN, click [here](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.).&#x20;
 {% endhint %}
 
-**3d.)** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app. Proceed to scan the barcode on your device, you will see a checkmark if it has successfully scanned.&#x20;
+**C-4)** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app. Proceed to scan the barcode on your device, you will see a checkmark if it has successfully scanned.&#x20;
 
 {% hint style="warning" %}
 If you do not have a working camera or you cannot get the barcode to scan, you can input the device iD manually in the app
 {% endhint %}
 
-**3e.)** Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition. Wait for your device to boot up and show both a solid green and blue light. Once you have verified both lights are on select “I’m plugged in” to continue.&#x20;
+**C-5)** Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition. Wait for your device to boot up and show both a solid green and blue light. Once you have verified both lights are on select “I’m plugged in” to continue.&#x20;
 
 The AutoPi Miner then connects via 4G and configures itself for your vehicle. This may take up to 15 minutes, and you may need to drive around if you’re in an area with poor cell coverage.
 
-**3f.)** Congratulations! You now have your vehicle connected with DIMO! Take your car out for a drive and watch all the data flow in.&#x20;
+**C-6)** Congratulations! You now have your vehicle connected with DIMO! Take your car out for a drive and watch all the data flow in.&#x20;
 
 
 
-### **4) Secure the Device**
-
-Once you’ve found the ideal location for the device, first use the provided alcohol swab to wipe down the area, then use the provided double-sided tape to secure the AutoPi in the swabbed area
-
-You may want to consider the different size OBD2 ports. Amazon has lots of them (link)
+## Step 4: Get Going&#x20;
 
