@@ -87,11 +87,11 @@ After locating your port, you may want to sit in the drivers seat to find your i
 
 We recommended the following options for places to install your DIMO Device:
 
-1. Use the included extension cord when installing the device.
-2. Attach to vehicle trim below steering column
-3. Attach directly to dashboard (not ideal in hotter climates with direct sunlight)
-4. Route under the floor mat and store in rear seat pocket
-5. Store inside vehicle trim (may require some removal/replacement)
+* Use the included extension cord when installing the device.
+* Attach to vehicle trim below steering column
+* Attach directly to dashboard (not ideal in hotter climates with direct sunlight)
+* Route under the floor mat and store in rear seat pocket
+* Store inside vehicle trim (may require some removal/replacement)
 
 {% hint style="danger" %}
 Plugging in your DIMO device directly may result in a loose connection. This may cause issues with data accuracy, engine lights, or detachment from the OBD2 port.&#x20;
