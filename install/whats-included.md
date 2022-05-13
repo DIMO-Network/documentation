@@ -30,6 +30,7 @@ description: Let's get your car connected!
 * **Lights on the AutoPi**. The lights on the AutoPi may stay on or flash when you shut your vehicle off, but this will not kill your battery. It’s just temporary and the AutoPi will hibernate.
 * **Unusual Occurrences**. If you notice anything unusual after plugging in your device like a check engine light, we want to hear from you. Between AutoPi and DIMO, there are thousands of devices in the field, and we're confident this will not impact your vehicle operations, but we can help troubleshoot and make sure everything is normal and alarms clear.&#x20;
 * **How the device works.** We won't cover that here, but if you'd like to learn more, [click here](https://blog.dimo.zone/understanding-your-dimo-miner-and-its-data/).
+* **What cars can connect**? We only support vehicles 10 years old and newer.&#x20;
 
 ✅ All good? Let's get going!
 
@@ -116,10 +117,6 @@ If you already have an account and have added your car, click here to [Begin Pai
 * Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button!
 * Tell us about your vehicle! Type in the make and model of your vehicle and select it from the drop down list. You will now select the year of your vehicle and click the Add vehicle button! Select connect with a DIMO miner. Now we can start pairing!
 
-{% hint style="danger" %}
-Keep in mind that we currently only support cars 10 years old and newer
-{% endhint %}
-
 {% hint style="warning" %}
 Verify you have all of the following before continuing.&#x20;
 
@@ -127,7 +124,7 @@ Verify you have all of the following before continuing.&#x20;
 * You have access to the vehicle that you want to use your hardware with.&#x20;
 * (optional) A working camera on your mobile device&#x20;
 * If you do not have a working camera or you cannot get the barcode to scan\
-  you can input the device iD manually in the app
+  you can input the device ID manually in the app
 {% endhint %}
 
 #### C-2) Begin Pairing&#x20;
@@ -142,7 +139,7 @@ Verify you have all of the following before continuing.&#x20;
 * You're all set up! Your DIMO miner is fully configured. You'll now see your data show in your mobile app/ &#x20;
 
 {% hint style="info" %}
-The DIMO Miner connects via 4G cell service and configures itself for your vehicle. A solid green light means it has connected to a network. This can awhile to connect if you are in an area with poor cell coverage. You may need to drive somewhere for a stronger connection.&#x20;
+The DIMO Miner connects via 4G cell service and configures itself for your vehicle. This can awhile to connect if you are in an area with poor cell coverage. You may need to drive somewhere for a stronger connection. A solid green light means it has connected/&#x20;
 {% endhint %}
 
 
