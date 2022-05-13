@@ -61,7 +61,11 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 ## Step 2: Watch the Installation Video
 
-(in final review, coming soon)
+#### Full Installation Overview Video
+
+(coming soon)
+
+#### Pairing Process Recording
 
 ✅ Got all that? You can read through it all below:
 
@@ -71,7 +75,7 @@ If you think anything is broken, defective or missing, please email support@dimo
 * [Select a Device Location with your Extension Cable](whats-included.md#2-select-a-device-location-with-your-extension-cable)
 * [Follow the Pairing Process in the DIMO Mobile app](whats-included.md#3-follow-the-pairing-process-in-the-dimo-mobile-app.)
 
-### **A: Locate Your OBD2 Port**&#x20;
+### **3.1: Locate Your OBD2 Port**&#x20;
 
 This specialized data port is usually under the dashboard below the steering wheel, but you may find it in a few other locations depending on your car. Refer to this picture for areas on where the port might be: <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> (click to expand)\
 \
@@ -81,37 +85,64 @@ The port may be hard to find in some vehicles, but you should see a trapezoid sh
 If your port is hard to find. you can click [here](https://www.carmd.com/obd-port-location/) for help.&#x20;
 {% endhint %}
 
-### **B: Select a Device Location with your Extension Cable**
+### **3.2: Select a Device Location with your Extension Cable**
 
-After locating your port, you may want to sit in the drivers seat to find your ideal mounting location. &#x20;
+{% hint style="info" %}
+You may want to complete the process of mounting the device until after the completing the pairing as you will need to be able to scan the barcode and check the lights on the device. &#x20;
+{% endhint %}
 
-We recommended the following options for places to install your DIMO Device:
+After locating your OBD2 port, you may want to sit in the drivers seat to find your ideal mounting location. &#x20;
 
-* Use the included extension cord when installing the device.
+We recommended the following options for places to install your DIMO Device. It's up to you where you would like to place it:
+
+_Click the pictures to see them full size._
+
 * Attach to vehicle trim below steering column
 * Attach directly to dashboard (not ideal in hotter climates with direct sunlight)
 * Route under the floor mat and store in rear seat pocket
 * Store inside vehicle trim (may require some removal/replacement)
 
 {% hint style="danger" %}
-Plugging in your DIMO device directly may result in a loose connection. This may cause issues with data accuracy, engine lights, or detachment from the OBD2 port.&#x20;
+Plugging in your DIMO device directly to your OBD2 may result in a loose connection. This may cause issues with data accuracy, engine lights, or detachment from the OBD2 port. \
+\
+**We recommend you use an extension cable.** If the one supplied is not a suitable length, you can order an OBD2 cable of a different length on many sites, including Amazon.
 {% endhint %}
 
-Once you have found your ideal location for mounting,  wipe the area down with the included alcohol wipe. Attach the included Velcro or 3M tape to the device. Attach one end of the extension cable to the device and then plug in the other side into your OBD-2 port. Mount the device to your vehicle.&#x20;
+**You can come back here after the Mobile App Pairing Process.** Once you have found your ideal location for mounting, wipe the area down with the included alcohol wipe. Attach the included Velcro or 3M tape to the device. Attach one end of the extension cable to the device and then plug in the other side into your OBD-2 port. Mount the device to your vehicle.&#x20;
 
-{% hint style="info" %}
-You may want to wait to mount the device in its location until after the mobile pairing has asked you to plug in the device.&#x20;
-{% endhint %}
+### Good Mounting Examples
 
-### C: Pairing Process in the DIMO Mobile app.&#x20;
+{% tabs %}
+{% tab title="" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+### Poor Mounting Examples
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+### 3.3: Pairing Process in the DIMO Mobile app.&#x20;
 
 {% hint style="success" %}
 You can download the IOS app [here](https://apps.apple.com/us/app/dimo-mobile/id1589486727) and the Android app [here](https://play.google.com/store/apps/details?id=com.dimo.driver).&#x20;
 {% endhint %}
 
-#### **C-1) Creating an Account and Adding Your Car**
+#### **3.3.1) Create an Account and Add Your Car**
 
-If you already have an account and have added your car, click here to [Begin Pairing](whats-included.md#begin-pairing). ****&#x20;
+If you already have an account and have added your car, click here to jump to [3.3.2 Pair your Device](whats-included.md#c-2-begin-pairing). ****&#x20;
 
 * Open the DIMO Mobile app on your iPhone or Android device and create an account. **If you create an account with your email address, you can add a crypto wallet later.**  <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line">****
 * Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button! <img src="../.gitbook/assets/image (6).png" alt="" data-size="line">
@@ -127,9 +158,9 @@ Verify you have all of the following before continuing. <img src="../.gitbook/as
   you can input the device ID manually in the app
 {% endhint %}
 
-#### C-2) Begin Pairing&#x20;
+#### 3.3.2) Pair Your Device&#x20;
 
-* &#x20;**** Select your vehicle in your home screen, and select connect with a DIMO miner <img src="../.gitbook/assets/IMG_0265.png" alt="" data-size="line">
+* &#x20;**** Tap your vehicle in your home screen, and select connect with a DIMO miner <img src="../.gitbook/assets/IMG_0265.png" alt="" data-size="line">
 * &#x20;**** Add in your vehicle's 17 character VIN and click “Enter”. Click [Here](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.) for help finding your VIN <img src="../.gitbook/assets/IMG_0268.png" alt="" data-size="line">
 * &#x20;**** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app. <img src="../.gitbook/assets/image (10).png" alt="" data-size="line">
 * Scan the barcode on your device, if successful you will see a checkmark in your app. <img src="../.gitbook/assets/IMG_0272.png" alt="" data-size="line">
