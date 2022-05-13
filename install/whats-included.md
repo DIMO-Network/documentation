@@ -29,7 +29,7 @@ description: Let's get your car connected!
 * **How the AutoPi Operates.** Once the AutoPi is plugged in it will power on/off automatically. The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts to protect your battery. It will update its own software automatically when we push new updates.&#x20;
 * **Lights on the AutoPi**. The lights on the AutoPi may stay on or flash when you shut your vehicle off, but this will not kill your battery. It’s just temporary and the AutoPi will hibernate.
 * **Unusual Occurrences**. If you notice anything unusual after plugging in your device like a check engine light, we want to hear from you. Between AutoPi and DIMO, there are thousands of devices in the field, and we're confident this will not impact your vehicle operations, but we can help troubleshoot and make sure everything is normal and alarms clear.&#x20;
-* **How the device works.** We won't cover that here, but if you'd like to learn more, [click here](https://blog.dimo.zone/understanding-your-dimo-miner-and-its-data/).
+* **How the device works.** We won't cover that here, but if you'd like to learn more, [<mark style="color:blue;">click here</mark>](https://blog.dimo.zone/understanding-your-dimo-miner-and-its-data/)<mark style="color:blue;">.</mark>
 * **What cars can connect**? We only support vehicles 10 years old and newer.&#x20;
 
 ✅ All good? Let's get going!
@@ -71,9 +71,9 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 ## Step 3: Install the Device and Pair in the DIMO Mobile App
 
-* [Locate Your OBD2 Port](whats-included.md#1-locate-the-obd2-port)
-* [Select a Device Location with your Extension Cable](whats-included.md#2-select-a-device-location-with-your-extension-cable)
-* [Follow the Pairing Process in the DIMO Mobile app](whats-included.md#3-follow-the-pairing-process-in-the-dimo-mobile-app.)
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Locate Your OBD2 Port</mark>](whats-included.md#1-locate-the-obd2-port)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Select a Device Location with your Extension Cable</mark>](whats-included.md#2-select-a-device-location-with-your-extension-cable)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Follow the Pairing Process in the DIMO Mobile app</mark>](whats-included.md#3-follow-the-pairing-process-in-the-dimo-mobile-app.)<mark style="color:blue;"></mark>
 
 ### **3.1: Locate Your OBD2 Port**&#x20;
 
@@ -82,7 +82,7 @@ This specialized data port is usually under the dashboard below the steering whe
 The port may be hard to find in some vehicles, but you should see a trapezoid shape with two rows of pins that looks like this: <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> (click to expand)
 
 {% hint style="info" %}
-If your port is hard to find. you can click [here](https://www.carmd.com/obd-port-location/) for help.&#x20;
+If your port is hard to find. you can click <mark style="color:blue;"></mark> [<mark style="color:blue;">here</mark>](https://www.carmd.com/obd-port-location/) for help.&#x20;
 {% endhint %}
 
 ### **3.2: Select a Device Location with your Extension Cable**
@@ -137,12 +137,12 @@ Plugging in your DIMO device directly to your OBD2 may result in a loose connect
 ### 3.3: Pairing Process in the DIMO Mobile app.&#x20;
 
 {% hint style="success" %}
-You can download the IOS app [here](https://apps.apple.com/us/app/dimo-mobile/id1589486727) and the Android app [here](https://play.google.com/store/apps/details?id=com.dimo.driver).&#x20;
+You can download the IOS app [<mark style="color:blue;">here</mark>](https://apps.apple.com/us/app/dimo-mobile/id1589486727) <mark style="color:blue;"></mark> and the Android app [<mark style="color:blue;">here</mark>](https://play.google.com/store/apps/details?id=com.dimo.driver).&#x20;
 {% endhint %}
 
 #### **3.3.1) Create an Account and Add Your Car**
 
-If you already have an account and have added your car, click here to jump to [3.3.2 Pair your Device](whats-included.md#c-2-begin-pairing). ****&#x20;
+If you already have an account and have added your car, click here to jump to [<mark style="color:blue;">3.3.2 Pair your Device</mark>](whats-included.md#c-2-begin-pairing). ****&#x20;
 
 * Open the DIMO Mobile app on your iPhone or Android device and create an account. **If you create an account with your email address, you can add a crypto wallet later.**  <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line">****
 * Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button! <img src="../.gitbook/assets/image (6).png" alt="" data-size="line">
@@ -161,7 +161,7 @@ Verify you have all of the following before continuing. <img src="../.gitbook/as
 #### 3.3.2) Pair Your Device&#x20;
 
 * &#x20;**** Tap your vehicle in your home screen, and select connect with a DIMO miner <img src="../.gitbook/assets/IMG_0265.png" alt="" data-size="line">
-* &#x20;**** Add in your vehicle's 17 character VIN and click “Enter”. Click [Here](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.) for help finding your VIN <img src="../.gitbook/assets/IMG_0268.png" alt="" data-size="line">
+* &#x20;**** Add in your vehicle's 17 character VIN and click “Enter”. Click [<mark style="color:blue;">Here</mark>](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.) <mark style="color:blue;"></mark> for help finding your VIN <img src="../.gitbook/assets/IMG_0268.png" alt="" data-size="line">
 * &#x20;**** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app. <img src="../.gitbook/assets/image (10).png" alt="" data-size="line">
 * Scan the barcode on your device, if successful you will see a checkmark in your app. <img src="../.gitbook/assets/IMG_0272.png" alt="" data-size="line">
 * Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition.
@@ -175,5 +175,5 @@ The DIMO Miner connects via 4G cell service and configures itself for your vehic
 
 ## Step 4: Get going!&#x20;
 
-Congratulations! You have just paired your first DIMO device. You have taken your first step in owning your data. You can learn more about rewards [here](broken-reference). You can learn more about how your data can be used [here](../overview/starting-with-cars.md). You can learn how to claim your NFT [here](broken-reference).
+Congratulations! You have just paired your first DIMO device. You have taken your first step in owning your data. You can learn more about rewards [<mark style="color:blue;">here</mark>](broken-reference). You can learn more about how your data can be used [<mark style="color:blue;">here</mark>](../overview/starting-with-cars.md). You can learn how to claim your NFT [<mark style="color:blue;">here</mark>](broken-reference).
 
