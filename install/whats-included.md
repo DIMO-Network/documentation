@@ -161,7 +161,7 @@ Verify you have all of the following before continuing. <img src="../.gitbook/as
 #### 3.3.2) Pair Your Device&#x20;
 
 * &#x20;**** Tap your vehicle in your home screen, and select connect with a DIMO miner <img src="../.gitbook/assets/IMG_0265.png" alt="" data-size="line">
-* &#x20;**** Add in your vehicle's 17 character VIN and click “Enter”. Click [<mark style="color:blue;">Here</mark>](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.) <mark style="color:blue;"></mark> for help finding your VIN <img src="../.gitbook/assets/IMG_0268.png" alt="" data-size="line">
+* &#x20;**** Add in your vehicle's 17 character VIN and click “Enter”. Click [<mark style="color:blue;">here</mark>](https://autotrends.org/2016/11/29/where-is-my-vin-number-located/#:\~:text=The%20most%20common%20place%20to,of%20the%20vehicle%20looking%20in.) <mark style="color:blue;"></mark> for help finding your VIN <img src="../.gitbook/assets/IMG_0268.png" alt="" data-size="line">
 * &#x20;**** Locate the barcode on the left side of your DIMO device, and select "Scan my barcode" in the mobile app. <img src="../.gitbook/assets/image (10).png" alt="" data-size="line">
 * Scan the barcode on your device, if successful you will see a checkmark in your app. <img src="../.gitbook/assets/IMG_0272.png" alt="" data-size="line">
 * Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition.
