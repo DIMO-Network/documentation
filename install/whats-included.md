@@ -93,7 +93,8 @@ We recommended the following options for places to install your DIMO Device:
 4. Store inside vehicle trim (may require some removal/replacement)
 
 {% hint style="danger" %}
-Plugging in your DIMO device directly may result in a loose connection. This may cause the issues with the device in reported data correctly. We **recommend** the use of the included extension cord to install the device.
+Plugging in your DIMO device directly may result in a loose connection. This may cause issues with data accuracy, engine lights, or detachment from the OBD2 port. \
+We **recommend** the use of the included extension cord when installing the device.
 {% endhint %}
 
 ### 3) Pairing Process in the DIMO Mobile app.&#x20;
