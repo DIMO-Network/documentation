@@ -6,7 +6,7 @@ description: The Trusted Machine Age
 
 The walled gardens of the Web 2.0 era have been reproduced in the physical world through IoT networks like Google Home, Facebook Portal, and Alexa.
 
-Vehicles are the next and largest category of devices to be connected. Automakers have created companies like [Otonomo](https://otonomo.io) and [Wejo](https://www.wejo.com) to replicate the Web2 model of reselling user data, while Amazon, Google, and Apple are doing everything they can to embed their software into vehicles.
+Vehicles are the next and largest category of devices to be connected. Automakers have created companies like [Otonomo](https://otonomo.io/) and [Wejo](https://www.wejo.com/) to replicate the Web2 model of reselling user data, while Amazon, Google, and Apple are doing everything they can to embed their software into vehicles.
 
 This model has proven it delivers value to corporations first and users second (if at all). Instead of a rich ecosystem of transparent and composable applications, we have silos that can’t interact without brittle, rent-seeking intermediaries. [Violations](https://chicago.suntimes.com/2021/6/13/22528743/amazon-sidewalk-privacy-hacking-echo-ring-doorball-editorial) of [privacy](https://www.wejo.com/press/wejo-palantir), [security](https://www.bleepingcomputer.com/news/security/kia-motors-america-suffers-ransomware-attack-20-million-ransom/), and interoperability guarantees show that incentives are not aligned between equipment manufacturers (OEMs), regulators, and the public.
 

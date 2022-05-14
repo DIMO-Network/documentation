@@ -28,11 +28,11 @@ This Team will prepare a written proposal as well as a slide presentation coveri
 
 ### 3
 
-On a dedicated community call, the team will take one hour to deliver the presentation and another hour to answer questions. During the Q\&A, stewards will be invited to ask questions live on the call while anyone else may submit questions via [Sli.do](https://www.sli.do), which will be asked in the order of most upvoted. The meeting itself will be recorded and posted for anyone who wants to watch later.
+On a dedicated community call, the team will take one hour to deliver the presentation and another hour to answer questions. During the Q\&A, stewards will be invited to ask questions live on the call while anyone else may submit questions via [Sli.do](https://www.sli.do/), which will be asked in the order of most upvoted. The meeting itself will be recorded and posted for anyone who wants to watch later.
 
 ### 4
 
-Everyone, especially stewards, are welcome to provide feedback openly to the petitioning dTeam. dStewards will work with the team to incorporate feedback and publish a proposed coordination contract in [Discourse](https://www.discourse.org) where community members can continue to deliberate.
+Everyone, especially stewards, are welcome to provide feedback openly to the petitioning dTeam. dStewards will work with the team to incorporate feedback and publish a proposed coordination contract in [Discourse](https://www.discourse.org/) where community members can continue to deliberate.
 
 A template coordination contract is viewable [here](https://docs.google.com/document/d/1\_WDW4hgifzary105kXAsRpDBqY6q3lU1uoy9F5gdc8k/edit?usp=sharing). This document will define:
 

@@ -48,7 +48,7 @@ You're already in the best place to read the overview. You can also visit [our b
 
 ### Who is building this and Why?
 
-DIMO grew out of a product studio and IoT consulting firm called Digital Infrastructure Services in 2020. Our project is heavily inspired by [Helium](https://www.helium.com), which demonstrated that token incentives are a capital efficient way to build supply in real-world user-owned IoT networks.
+DIMO grew out of a product studio and IoT consulting firm called Digital Infrastructure Services in 2020. Our project is heavily inspired by [Helium](https://www.helium.com/), which demonstrated that token incentives are a capital efficient way to build supply in real-world user-owned IoT networks.
 
 The full-time core team is made up of 8 engineers with deep mobility, web3 and IoT experience as well as 3 non-technical contributors that split responsibilities associated with go-to-market, organizational design, finance, strategy, marketing, governance, and partnerships.
 
@@ -66,13 +66,13 @@ Modern cars typically produce more data and have additional sensors built in, so
 
 Initially, DIMO will offer a few ways for drivers to connect their cars.
 
-The first is via their automaker's connectd car subscription. DIMO uses [Smartcar](https://smartcar.com), a handy interface that allows anyone who already has an app for their car to use those same credentials to connect to DIMO. It’s like Plaid, but for your car. By signing up and adding your vehicle, we can automatically tell you if you will be able to connect with SmartCar.
+The first is via their automaker's connectd car subscription. DIMO uses [Smartcar](https://smartcar.com/), a handy interface that allows anyone who already has an app for their car to use those same credentials to connect to DIMO. It’s like Plaid, but for your car. By signing up and adding your vehicle, we can automatically tell you if you will be able to connect with SmartCar.
 
 We’re also releasing the very first version of a [DIMO hardware](https://shop.dimo.zone/password), a miner like a Helium hotspot that allows you to stream data from your car by plugging it into your car’s standard data port, the OBD2 port. This is the same port used by insurance plug-in devices or diagnostic tools. The device was made in partnership with [AutoPi](http://www.autopi.io) and it delivers far more data and also earns drivers higher rewards.
 
 ### What cars are compatible with DIMO?
 
-Almost any car manufactured in the past ten years (2012 or newer) registered in the US and Canada will be compatible. We're starting in this region for a combination of technical and legal reasons. We hope to expand to Mexico and Europe later in 2022, followed by the rest of the world. While we may not be in your country yet, you can still earn tokens by referring new drivers (create an account at [https://app.dimo.zone/](https://app.dimo.zone) to generate a referral link) and contributing to the DAO.\
+Almost any car manufactured in the past ten years (2012 or newer) registered in the US and Canada will be compatible. We're starting in this region for a combination of technical and legal reasons. We hope to expand to Mexico and Europe later in 2022, followed by the rest of the world. While we may not be in your country yet, you can still earn tokens by referring new drivers (create an account at [https://app.dimo.zone/](https://app.dimo.zone/) to generate a referral link) and contributing to the DAO.\
 \
 We're working on expanding support, but with older cars, the challenge is getting viable data off of the car. This can inhibit token rewards or doing useful things with that data, like building next-generation apps.
 
