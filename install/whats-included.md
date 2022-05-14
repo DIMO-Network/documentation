@@ -62,7 +62,7 @@ If you think anything is broken, defective or missing, please email support@dimo
 
 #### Full Installation Overview Video
 
-(coming soon)
+{% embed url="https://youtu.be/NwWRHzQP0uE" %}
 
 #### Pairing Process Recording
 
