@@ -123,6 +123,10 @@ Plugging in your DIMO device directly to your OBD2 may result in a loose connect
 
 ![Anchelus](<../.gitbook/assets/image (6).png>)
 {% endtab %}
+
+{% tab title="Long Route" %}
+![TigerRaiders](<../.gitbook/assets/Long Route.jpg>)
+{% endtab %}
 {% endtabs %}
 
 ### Poor Mounting Examples
