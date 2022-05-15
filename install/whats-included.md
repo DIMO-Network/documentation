@@ -113,11 +113,15 @@ Plugging in your DIMO device directly to your OBD2 may result in a loose connect
 
 {% tabs %}
 {% tab title="Near the Steering Wheel" %}
-![ALD](../.gitbook/assets/GoodMount1.jpg) ![ANCHELUS](../.gitbook/assets/Goodmount2.jpg) ![VINDO](../.gitbook/assets/Goodmount3.jpeg) ![VALR](../.gitbook/assets/goodmount4.jpg) ![Boomer](../.gitbook/assets/goodmount5.png) ![Wallnutter](../.gitbook/assets/goodmount6.jpg)
+![ALD](../.gitbook/assets/GoodMount1.jpg) ![VINDO](../.gitbook/assets/Goodmount3.jpeg) ![VALR](../.gitbook/assets/goodmount4.jpg) ![Boomer](../.gitbook/assets/goodmount5.png) ![Wallnutter](../.gitbook/assets/goodmount6.jpg)
+
+![Tech404](../.gitbook/assets/GoodMount7.jpg) ![Tech404](../.gitbook/assets/Goodmount8.jpg)
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="On the dash" %}
+![Fallen](../.gitbook/assets/Goodmount9.jpg)
 
+![Anchelus](<../.gitbook/assets/image (6).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -144,7 +148,7 @@ You can download the IOS app [<mark style="color:blue;">here</mark>](https://app
 If you already have an account and have added your car, click here to jump to [<mark style="color:blue;">3.3.2 Pair your Device</mark>](whats-included.md#c-2-begin-pairing). ****&#x20;
 
 * Open the DIMO Mobile app on your iPhone or Android device and create an account. **If you create an account with your email address, you can add a crypto wallet later.**  <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line">****
-* Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button! <img src="../.gitbook/assets/image (6).png" alt="" data-size="line">
+* Welcome to the DIMO app, you will now be on the home screen, You will need to add your first vehicle here. Let's hit the + add a vehicle button.  Read the Acknowledgement and hit the button! <img src="../.gitbook/assets/image (6) (1).png" alt="" data-size="line">
 * Tell us about your vehicle! Type in the make and model of your vehicle and select it from the drop down list. You will now select the year of your vehicle and click the Add vehicle button! Select connect with a DIMO miner. Now we can start pairing!&#x20;
 
 {% hint style="warning" %}
