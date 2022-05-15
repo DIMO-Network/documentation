@@ -30,7 +30,7 @@ We will closely monitor and contribute to the anti-sybil and proof of personhood
 
 DIMO is seeding an independent hardware ecosystem by partnering with Autopi to produce a plug & play, fully integrated ARM-based open hardware product that can plug into any car made after 1988. This device will communicate with the vehicle message bus, called the CAN-BUS and extract signals information sent by the car, as well as sign it to provide authenticity to the data by signing it using the included Ethereum wallet.
 
-![DIMO x AutoPi co-branded OBDII device and its key features](<../../.gitbook/assets/image (12).png>)
+![DIMO x AutoPi co-branded OBDII device and its key features](<../../.gitbook/assets/image (12) (1).png>)
 
 Users will be able to add this hardware to their vehicle as either a primary (and only) data collection option, or layer it onto existing API connectivity options provided by the OEM.
 

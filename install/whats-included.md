@@ -112,8 +112,8 @@ Plugging in your DIMO device directly to your OBD2 may result in a loose connect
 ### Good Mounting Examples
 
 {% tabs %}
-{% tab title="" %}
-
+{% tab title="Near the Steering Wheel" %}
+![ALD](../.gitbook/assets/GoodMount1.jpg) ![ANCHELUS](../.gitbook/assets/Goodmount2.jpg) ![VINDO](../.gitbook/assets/Goodmount3.jpeg) ![VALR](../.gitbook/assets/goodmount4.jpg) ![Boomer](../.gitbook/assets/goodmount5.png) ![Wallnutter](../.gitbook/assets/goodmount6.jpg)
 {% endtab %}
 
 {% tab title="Second Tab" %}
@@ -124,7 +124,7 @@ Plugging in your DIMO device directly to your OBD2 may result in a loose connect
 ### Poor Mounting Examples
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Bad Cable Routing" %}
 
 {% endtab %}
 
@@ -165,7 +165,7 @@ Verify you have all of the following before continuing. <img src="../.gitbook/as
 * Scan the barcode on your device, if successful you will see a checkmark in your app. <img src="../.gitbook/assets/IMG_0272.png" alt="" data-size="line">
 * Plug in your DIMO Miner into the OBD-II port in your vehicle and start your vehicles ignition.
 * Wait for your device to power one and show both a solid green and blue light.&#x20;
-* Once you have verified both lights are on and solid select “I’m plugged in” to continue. <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
+* Once you have verified both lights are on and solid select “I’m plugged in” to continue. <img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line">
 * You're all set up! Your DIMO miner is fully configured. You'll now see your data show in your mobile app <img src="../.gitbook/assets/image (4).png" alt="" data-size="line">
 
 {% hint style="info" %}
