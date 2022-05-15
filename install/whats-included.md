@@ -121,6 +121,10 @@ Plugging in your DIMO device directly to your OBD2 may result in a loose connect
 {% endtab %}
 
 {% tab title="On the dash" %}
+{% hint style="danger" %}
+Do not install it on your dash if you live a hot climate!
+{% endhint %}
+
 ![Fallen](../.gitbook/assets/Goodmount9.jpg)
 
 ![Anchelus](<../.gitbook/assets/image (6).png>)
@@ -136,10 +140,6 @@ Plugging in your DIMO device directly to your OBD2 may result in a loose connect
 {% tabs %}
 {% tab title="Bad Cable Routing" %}
 ![Cable obstruction](../.gitbook/assets/BadRoute1.png) ![Device Obstruction](../.gitbook/assets/BadRoute2.png)
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
 {% endtab %}
 {% endtabs %}
 
