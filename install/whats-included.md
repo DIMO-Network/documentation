@@ -179,7 +179,9 @@ Verify you have all of the following before continuing. <img src="../.gitbook/as
 * You're all set up! Your DIMO miner is fully configured. You'll now see your data show in your mobile app <img src="../.gitbook/assets/image (4).png" alt="" data-size="line">
 
 {% hint style="info" %}
-The DIMO Miner connects via 4G cell service and configures itself for your vehicle. This can awhile to connect if you are in an area with poor cell coverage. You may need to drive somewhere for a stronger connection. A solid green light means it has connected/&#x20;
+**Green light won't stay solid?**
+
+The DIMO Miner connects via 4G cell service and configures itself for your vehicle. This can awhile to connect if you are in an area with poor cell coverage. You may need to drive somewhere for a stronger connection. A solid green light means it has connected&#x20;
 {% endhint %}
 
 ## Step 4: Get going!&#x20;
