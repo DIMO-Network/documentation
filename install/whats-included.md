@@ -25,6 +25,7 @@ description: Let's get your car connected!
 
 ### Other things to Know
 
+* **Complete Syncing can take 24-48 hrs.** It can take a little time for the DIMO device to download any updates, sync with the wireless network, and fully configure itself with the DIMO protocol.
 * **How the AutoPi Operates.** Once the AutoPi is plugged in it will power on/off automatically. The device automatically hibernates at 12.4 volts, and shuts off at 12.3 volts to protect your battery. It will update its own software automatically when we push new updates.&#x20;
 * **Lights on the AutoPi**. The lights on the AutoPi may stay on or flash when you shut your vehicle off, but this will not kill your battery. It’s just temporary and the AutoPi will hibernate.
 * **Unusual Occurrences**. If you notice anything unusual after plugging in your device like a check engine light, we want to hear from you. Between AutoPi and DIMO, there are thousands of devices in the field, and we're confident this will not impact your vehicle operations, but we can help troubleshoot and make sure everything is normal and alarms clear.&#x20;
