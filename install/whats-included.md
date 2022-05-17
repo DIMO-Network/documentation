@@ -16,6 +16,7 @@ description: Let's get your car connected!
 ### Getting Help from a Person
 
 * Run into problems? Email support@dimo.zone or come to Discord.
+* Weekly Onboarding - 5pm ET in Discord: [https://dimo.zone/events/](https://dimo.zone/events/)
 * Do you want to book a time to speak with someone? [<mark style="color:blue;">Book a time</mark>](https://calendly.com/d/drm-89h-kbx/install-support-call?month=2022-05).
 
 ### Warnings
