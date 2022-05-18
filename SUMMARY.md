@@ -35,6 +35,7 @@
 ## 🔧 Install
 
 * [DIMO Device Installation Instructions](install/whats-included.md)
+* [Green Light Bug Fix](install/green-light-bug-fix.md)
 
 ## 🚨 Support
 
