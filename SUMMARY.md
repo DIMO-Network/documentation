@@ -35,10 +35,10 @@
 ## 🔧 Install
 
 * [DIMO Device Installation Instructions](install/whats-included.md)
-* [Green Light Bug Fix](install/green-light-bug-fix.md)
 
 ## 🚨 Support
 
+* [Green Light Bug Fix](support/green-light-bug-fix.md)
 * [Contact us!](support/contact-us.md)
 * [Hardware Device](other-faq/hardware-device.md)
 * [SmartCar Connection](other-faq/smartcar-connection.md)
