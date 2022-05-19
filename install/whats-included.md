@@ -23,6 +23,7 @@ description: Let's get your car connected!
 
 * You're early! The install process may not be perfect and there may be some kinks to iron out.
 * Do not put this device on an airbag panel.
+* Do not install the device on your dash
 
 ### Other things to Know
 
@@ -99,7 +100,6 @@ We recommended the following options for places to install your DIMO Device. It'
 _Click the pictures to see them full size._
 
 * Attach to vehicle trim below steering column
-* Attach directly to dashboard (not ideal in hotter climates with direct sunlight)
 * Route under the floor mat and store in rear seat pocket
 * Store inside vehicle trim (may require some removal/replacement)
 
@@ -120,16 +120,6 @@ Plugging in your DIMO device directly to your OBD2 may result in a loose connect
 ![Tech404](../.gitbook/assets/GoodMount7.jpg) ![ShaoFunk](../.gitbook/assets/Goodmount11.png)
 
 
-{% endtab %}
-
-{% tab title="On the dash" %}
-{% hint style="danger" %}
-Do not install it on your dash if you live a hot climate!
-{% endhint %}
-
-![Fallen](../.gitbook/assets/Goodmount9.jpg)
-
-![Anchelus](<../.gitbook/assets/image (6).png>)
 {% endtab %}
 
 {% tab title="Long Route" %}
