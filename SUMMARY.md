@@ -43,11 +43,11 @@
 * [Hardware Device](other-faq/hardware-device.md)
 * [SmartCar Connection](other-faq/smartcar-connection.md)
 
-## 🖼 NFT
+## 🖼 Alpha Fleet NFT
 
-* [DIMO NFTs](nft/dimo-nfts.md)
-* [How to Claim your NFT](nft/alpha-fleet-nft-claiming-guide.md)
-* [NFT FAQ](nft/nft-faq.md)
+* [Categories](alpha-fleet-nft/categories.md)
+* [How to Claim your NFT](alpha-fleet-nft/how-to-claim-your-nft.md)
+* [NFT FAQ](alpha-fleet-nft/nft-faq.md)
 
 ## ⁉ Other FAQ
 
