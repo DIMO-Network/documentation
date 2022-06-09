@@ -45,6 +45,10 @@
 * [Hardware Device](other-faq/hardware-device.md)
 * [SmartCar Connection](other-faq/smartcar-connection.md)
 
+***
+
+* [🏎 Alpha Vehicle NFT](alpha-vehicle-nft.md)
+
 ## 🖼 Alpha Fleet NFT
 
 * [Categories](nft/dimo-nfts.md)
