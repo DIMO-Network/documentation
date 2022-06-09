@@ -28,7 +28,7 @@ Apps are set up as “data consumers” that can pull data from the protocol to 
 
 ### When will hardware ship?&#x20;
 
-Check [hardware-ecosystem.md](../../development-roadmap/hardware-ecosystem.md "mention") for the latest information.&#x20;
+Check [hardware](../../development-roadmap/hardware/ "mention") for the latest information.&#x20;
 
 ### What is the return policy?
 

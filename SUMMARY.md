@@ -16,7 +16,9 @@
   * [Phase 1.2](development-roadmap/technical-roadmap/phase-1.2.md)
   * [Phase 1.3](development-roadmap/technical-roadmap/phase-1.3.md)
 * [Seeding applications](development-roadmap/seeding-applications.md)
-* [Hardware Ecosystem](development-roadmap/hardware-ecosystem.md)
+* [Hardware](development-roadmap/hardware/README.md)
+  * [Hardware Ecosystem](development-roadmap/hardware/hardware-ecosystem.md)
+  * [AutoPi DIMO Miner V1](development-roadmap/hardware/autopi-dimo-miner-v1.md)
 
 ## 🗳 Governance
 
