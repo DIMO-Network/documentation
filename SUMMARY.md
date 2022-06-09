@@ -45,9 +45,9 @@
 
 ## 🖼 Alpha Fleet NFT
 
-* [Categories](alpha-fleet-nft/categories.md)
-* [How to Claim your NFT](alpha-fleet-nft/how-to-claim-your-nft.md)
-* [NFT FAQ](alpha-fleet-nft/nft-faq.md)
+* [Categories](nft/dimo-nfts.md)
+* [How to Claim your NFT](nft/alpha-fleet-nft-claiming-guide.md)
+* [Alpha Fleet FAQ](alpha-fleet-nft/alpha-fleet-faq.md)
 
 ## ⁉ Other FAQ
 

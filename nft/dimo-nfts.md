@@ -1,4 +1,4 @@
-# DIMO NFTs
+# Categories
 
 ### Alpha Fleet Device NFT
 
