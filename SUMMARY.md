@@ -40,8 +40,8 @@
 
 ## 🚨 Support
 
-* [Green Light Bug Fix](support/green-light-bug-fix.md)
 * [Contact us!](support/contact-us.md)
+* [Green Light Bug Fix](support/green-light-bug-fix.md)
 * [Hardware Device](other-faq/hardware-device.md)
 * [SmartCar Connection](other-faq/smartcar-connection.md)
 
