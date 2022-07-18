@@ -59,3 +59,20 @@
 
 * [General FAQs](other-faq/general-faqs/README.md)
   * [🔏 Data & Privacy FAQs](other-faq/general-faqs/data-and-privacy-faqs.md)
+
+## Product Documentation
+
+* [Intro to DIMO Registry](product-documentation/intro-to-dimo-registry.md)
+* [Where DIMO Lives](product-documentation/where-dimo-lives.md)
+* [Per Type Description](product-documentation/per-type-description.md)
+* [Transactions](product-documentation/transactions.md)
+* [Wallets (UserIDs)](product-documentation/wallets-userids.md)
+
+## Engineering Documentation
+
+* [Sign In WIth Ethereum](engineering-documentation/sign-in-with-ethereum.md)
+* [Description of Module System Within DIMO Registry](engineering-documentation/description-of-module-system-within-dimo-registry.md)
+* [Access Control](engineering-documentation/access-control.md)
+* [Extending the DIMO Registry](engineering-documentation/extending-the-dimo-registry.md)
+* [Dynamic Metadata](engineering-documentation/dynamic-metadata.md)
+* [Access DIMO Data (Graph)](engineering-documentation/access-dimo-data-graph.md)
