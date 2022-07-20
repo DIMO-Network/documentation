@@ -45,11 +45,12 @@
 * [Hardware Device](other-faq/hardware-device.md)
 * [SmartCar Connection](other-faq/smartcar-connection.md)
 
-***
+## 🏎 Open Vehicle ID
 
-* [🏎 Open Vehicle ID](open-vehicle-id/README.md)
-  * [Glovebox](open-vehicle-id/glovebox.md)
-  * [How to import your OVID to your web3 wallet](open-vehicle-id/how-to-import-your-ovid-to-your-web3-wallet.md)
+* [What is a Open Vehicle ID?](open-vehicle-id/what-is-a-open-vehicle-id.md)
+* [Page 3](open-vehicle-id/page-3.md)
+* [Glovebox](open-vehicle-id/glovebox.md)
+* [How to import your OVID to your web3 wallet](open-vehicle-id/how-to-import-your-ovid-to-your-web3-wallet.md)
 
 ## 🖼 Device NFT
 

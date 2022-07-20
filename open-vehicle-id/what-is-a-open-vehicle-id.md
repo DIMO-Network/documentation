@@ -1,8 +1,4 @@
----
-description: The DIMO Composer and NFT Transfers
----
-
-# 🏎 Open Vehicle ID
+# What is a Open Vehicle ID?
 
 {% hint style="info" %}
 Coming soon - currently in closed Alpha testing&#x20;
@@ -35,7 +31,3 @@ As an open and extensible building block, further data can be attached over time
 **DIMO Validated Credentials -** Insurance Policies, Title, Registration&#x20;
 
 **Price -** While you can't transfter the NFT today, our goal is to allow you tosell your vehicle data history with any normal vehicle transaction. DIMO's core team is working on escrow and transfer contracts to make this easy and privacy preserving.&#x20;
-
-###
-
-### &#x20;****&#x20;
