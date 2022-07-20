@@ -48,8 +48,8 @@
 ## 🏎 Open Vehicle ID
 
 * [What is a Open Vehicle ID?](open-vehicle-id/what-is-a-open-vehicle-id.md)
-* [DIMO Vehicle Composer h](open-vehicle-id/dimo-vehicle-composer-h.md)
 * [Glovebox](open-vehicle-id/glovebox.md)
+* [DIMO Vehicle Composer](open-vehicle-id/dimo-vehicle-composer.md)
 * [How to import your OVID to your web3 wallet](open-vehicle-id/how-to-import-your-ovid-to-your-web3-wallet.md)
 
 ## 🖼 Device NFT

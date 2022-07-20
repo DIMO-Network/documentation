@@ -2,7 +2,7 @@
 description: Create a sick ride to represent your vehicle in the Dimoverse
 ---
 
-# DIMO Vehicle Composer h
+# DIMO Vehicle Composer
 
 The DIMO Vehicle Composer allows a user to rev up the creation of their open vehicle ID.
 

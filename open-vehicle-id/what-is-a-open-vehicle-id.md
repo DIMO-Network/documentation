@@ -1,3 +1,9 @@
+---
+description: Bringing your car to the DIMO-Verse
+cover: ../.gitbook/assets/Image 33.png
+coverY: 49.46996466431095
+---
+
 # What is a Open Vehicle ID?
 
 {% hint style="info" %}
