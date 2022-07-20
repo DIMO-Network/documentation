@@ -47,7 +47,7 @@
 
 ***
 
-* [🏎 Alpha Vehicle NFT](alpha-vehicle-nft.md)
+* [🏎 Open Vehicle ID](open-vehicle-id.md)
 
 ## 🖼 Alpha Fleet NFT
 

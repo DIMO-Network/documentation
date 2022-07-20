@@ -2,19 +2,19 @@
 description: The DIMO Composer and NFT Transfers
 ---
 
-# 🏎 Alpha Vehicle NFT
+# 🏎 Open Vehicle ID
 
 {% hint style="info" %}
 Coming soon - currently in closed Alpha testing&#x20;
 {% endhint %}
 
-DIMO unlocks a digital story of a vehicle’s life by creating an on-chain ID (aka NFT) of their car. This digital asset will represent ownership over the data from their vehicle. &#x20;
+DIMO unlocks a digital story of a vehicle’s life by creating an on-chain open vehicle ID (aka NFT) of their car. This digital asset will represent ownership over the data from their vehicle. &#x20;
 
 As vehicle data is sent to the DIMO network, it is linked as vehicle lifecycle history. Not just a url to a jpeg of your vehicle, it’s your key to ownership records and selected driving data.
 
 At any point in time, the owner of the asset can access the vehicle's data, analyze , delegate or grant access to a 3rd party for users like insurance, accident reconstruction, carsharing, pre-sale inspection, and more.&#x20;
 
-### What data does a DIMO Vehicle ID Contain?
+### What data does a DIMO enabled Open Vehicle ID Contain?
 
 Here's what is included in the default configuration:&#x20;
 
