@@ -55,7 +55,7 @@
 ## 🖼 Device NFT
 
 * [Categories](device-nft/categories.md)
-* [How to Claim your NFT](device-nft/how-to-claim-your-nft.md)
+* [How to Claim your DIMO device NFT](device-nft/how-to-claim-your-dimo-device-nft.md)
 * [Alpha Fleet FAQ](device-nft/alpha-fleet-faq.md)
 
 ## ⁉ Other FAQ
