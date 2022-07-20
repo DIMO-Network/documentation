@@ -47,17 +47,20 @@
 
 ***
 
-* [🏎 Open Vehicle ID](open-vehicle-id.md)
+* [🏎 Open Vehicle ID](open-vehicle-id/README.md)
+  * [Glovebox](open-vehicle-id/glovebox.md)
+  * [How to import your OVID to your web3 wallet](open-vehicle-id/how-to-import-your-ovid-to-your-web3-wallet.md)
 
-## 🖼 Alpha Fleet NFT
+## 🖼 Device NFT
 
-* [Categories](nft/dimo-nfts.md)
-* [How to Claim your NFT](nft/alpha-fleet-nft-claiming-guide.md)
-* [Alpha Fleet FAQ](alpha-fleet-nft/alpha-fleet-faq.md)
+* [Categories](device-nft/categories.md)
+* [How to Claim your NFT](device-nft/how-to-claim-your-nft.md)
+* [Alpha Fleet FAQ](device-nft/alpha-fleet-faq.md)
 
 ## ⁉ Other FAQ
 
 * [General FAQs](other-faq/general-faqs/README.md)
+  * [Page 2](other-faq/general-faqs/page-2.md)
   * [🔏 Data & Privacy FAQs](other-faq/general-faqs/data-and-privacy-faqs.md)
 
 ## Product Documentation

@@ -24,7 +24,7 @@ Here's what is included in the default configuration:&#x20;
 
 **Place of Manufacture:** Reported to NHTSA **** from the OEM&#x20;
 
-![An example NFT shown on OpenSea ](<.gitbook/assets/image (15).png>)
+![An example NFT shown on OpenSea ](<../.gitbook/assets/image (15).png>)
 
 As an open and extensible building block, further data can be attached over time.&#x20;
 
