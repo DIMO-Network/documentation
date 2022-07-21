@@ -4,7 +4,7 @@ description: import those sick skins to your wallet of choice.
 
 # How to import your Open vehicle ID to your web3 wallet
 
-### MetaMask
+### MetaMask <img src="../.gitbook/assets/metamask-630903.png" alt="" data-size="line">
 
 Log into your MetaMask wallet mobile app
 
