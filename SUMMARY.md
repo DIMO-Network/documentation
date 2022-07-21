@@ -44,6 +44,7 @@
 * [Green Light Bug Fix](support/green-light-bug-fix.md)
 * [Hardware Device](other-faq/hardware-device.md)
 * [SmartCar Connection](other-faq/smartcar-connection.md)
+* [Order lookup](support/order-lookup.md)
 
 ## 🏎 Open Vehicle ID
 
