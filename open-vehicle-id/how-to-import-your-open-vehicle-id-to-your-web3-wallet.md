@@ -14,7 +14,11 @@ Input Contract address 0xD7519fFbFb1f15Ef320F5bf7A325Aa1020e31988 in the address
 \
 Input your Token ID found on the DIMO Identity Beta V1 OpenSea site.<img src="../.gitbook/assets/iScreen Shoter - 2022-07-21 140753.751.png" alt="" data-size="line">
 
-You should now see your Open Vehicle ID in your app <img src="../.gitbook/assets/IMG_0408.PNG" alt="" data-size="line">
+You should now see your Open Vehicle ID in your app&#x20;
+
+{% hint style="info" %}
+You can find the link to your vehicle on OpenSea in your mobile app <img src="../.gitbook/assets/IMG_0424.PNG" alt="" data-size="line">
+{% endhint %}
 
 ### Argent
 
