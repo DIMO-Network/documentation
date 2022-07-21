@@ -7,6 +7,7 @@
 * [How DIMO scales](overview/how-dimo-scales.md)
 * [Starting with cars](overview/starting-with-cars.md)
 * [Get involved](overview/get-involved.md)
+* [The DIMO Blog](overview/the-dimo-blog.md)
 
 ## 📈 Development Roadmap
 
@@ -40,11 +41,11 @@
 
 ## 🚨 Support
 
+* [Order lookup](support/order-lookup.md)
 * [Contact us!](support/contact-us.md)
 * [Green Light Bug Fix](support/green-light-bug-fix.md)
 * [Hardware Device](other-faq/hardware-device.md)
 * [SmartCar Connection](other-faq/smartcar-connection.md)
-* [Order lookup](support/order-lookup.md)
 
 ## 🏎 Open Vehicle ID
 
