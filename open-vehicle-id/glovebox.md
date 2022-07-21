@@ -13,7 +13,9 @@ Once you have added your vehicle to the DIMO mobile app (no connection required)
 * Insurance
 * Vehicles maintenance history
 
-To add any of these items, you must take a photo or upload the document from your camera roll.
+To access the glovebox feature - on your home screen, click on the three dots in the upper right hand corner and select Glovebox.&#x20;
+
+To add any of these items, you must take a photo or upload the document from your camera roll. You can currently add in multiple photos.&#x20;
 
 
 
