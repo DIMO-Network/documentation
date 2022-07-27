@@ -8,6 +8,8 @@ description: import those sick skins to your wallet of choice.
 
 <summary>MetaMask <img src="../.gitbook/assets/metamask-630903.png" alt="" data-size="line"></summary>
 
+**Click the photos to expand**
+
 * Log into your MetaMask wallet mobile app
 * Click on the NFT tab and select import NFT at the bottom <img src="../.gitbook/assets/IMG_0410.PNG" alt="" data-size="line">
 * Input Contract address 0xD7519fFbFb1f15Ef320F5bf7A325Aa1020e31988 in the address box <img src="../.gitbook/assets/IMG_0413.PNG" alt="" data-size="line">
