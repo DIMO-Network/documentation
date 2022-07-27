@@ -1,5 +1,5 @@
 ---
-description: import those sick skins to your wallet of choice.
+description: import those sick skins to our currently supported wallets
 ---
 
 # How to import your Open vehicle ID to your web3 wallet
@@ -18,11 +18,29 @@ description: import those sick skins to your wallet of choice.
 
 </details>
 
-### Argent
+<details>
 
-### Trust Wallet
+<summary>Argent</summary>
 
-### Rainbow
+
+
+</details>
+
+<details>
+
+<summary>Trust</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Rainbow</summary>
+
+
+
+</details>
 
 
 
