@@ -23,5 +23,6 @@ To access the glovebox feature - on your home screen, click on the three dots in
 
 To add any of these items, you must take a photo or upload the document from your camera roll. You can currently add in multiple photos.&#x20;
 
+### Whats coming next?
 
-
+We are actively working on the next features to be implemented into the glovebox.
