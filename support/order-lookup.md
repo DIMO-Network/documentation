@@ -6,7 +6,11 @@ description: Have the itch to find out when your device will get delivered?
 
 If you are waiting for your order to be delivered you can use [orderlookup.dimo.zone](https://orderlookup.dimo.zone) to find information on when you should expect delivery.
 
-You will need the email address you ordered with and your order number.
+You will need the email address you ordered with and your order number.&#x20;
+
+{% hint style="info" %}
+Your will be able to find your order number from a confirmation email sent to you by shop.dimo.zone
+{% endhint %}
 
 ![Orderlookup.dimo.zone](<../.gitbook/assets/iScreen Shoter - 2022-07-22 110248.670.png>)
 
