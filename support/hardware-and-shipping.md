@@ -60,3 +60,7 @@ Please note that these points will be deposited to your account at a later date.
 
 ### Can I sell my device to someone else?
 
+### Want to join the waitlist?
+
+Add your car in the [DIMO Mobile App](https://onelink.to/dimo/?utm\_source=customer\_io\&utm\_medium=newsletter\&utm\_campaign=the\_movement). Adding your car puts in in line for ordering.&#x20;
+
