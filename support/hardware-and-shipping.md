@@ -6,10 +6,10 @@ description: Have the itch to find out when your device will get delivered?
 
 ## Table of Contents
 
-* [Get in Touch](hardware-and-shipping.md#get-in-touch)
-* [Shipping Delays](hardware-and-shipping.md#shipping-delays)
-* [Order Lookup](hardware-and-shipping.md#order-lookup) (Check your estimated ship date)
-* [Other Shipping FAQs](hardware-and-shipping.md#other-shipping-faqs)
+* [<mark style="color:blue;">Get in Touch</mark>](hardware-and-shipping.md#get-in-touch)<mark style="color:blue;"></mark>
+* <mark style="color:blue;"></mark>[<mark style="color:blue;">Shipping Delays</mark>](hardware-and-shipping.md#shipping-delays)<mark style="color:blue;"></mark>
+* [<mark style="color:blue;">Order Lookup</mark>](hardware-and-shipping.md#order-lookup) (Check your estimated ship date)
+* [<mark style="color:blue;">Other Shipping FAQs</mark>](hardware-and-shipping.md#other-shipping-faqs)<mark style="color:blue;"></mark>
   * When will the store reopen?&#x20;
   * Can I buy someone else's device if they return it?&#x20;
   * Can I sell my device to someone else?\\
