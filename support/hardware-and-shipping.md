@@ -12,7 +12,7 @@ description: Have the itch to find out when your device will get delivered?
 * [<mark style="color:blue;">Other Shipping FAQs</mark>](hardware-and-shipping.md#other-shipping-faqs)<mark style="color:blue;"></mark>
   * When will the store reopen?&#x20;
   * Can I buy someone else's device if they return it?&#x20;
-  * Can I sell my device to someone else?\\
+  * Can I sell my device to someone else?
   * Want to join the waitlist?
 
 ## Get in Touch
