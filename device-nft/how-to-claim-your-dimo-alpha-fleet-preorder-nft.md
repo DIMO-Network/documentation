@@ -2,9 +2,9 @@
 description: DIMO NFTs live here - https://galaxy.eco/dimo/
 ---
 
-# How to Claim your NFT
+# How to Claim your DIMO Alpha Fleet (Preorder) NFT
 
-
+If you're looking to mint your vehicle as an NFT in the DIMO app head here: [Broken link](broken-reference "mention")
 
 {% hint style="info" %}
 The Eth address you have connected your DIMO account with be the one needed to mint your NFT.
@@ -28,12 +28,7 @@ step 5. Head over [here](https://galaxy.eco/dimo/campaign/GCeeuUUZ3Z) to mint yo
 
 
 {% hint style="info" %}
-Please note that the DIMO team has to whitelist your ETH address to allow for minting.\
-We will refresh the list at the end of every week.
-{% endhint %}
+Please note that the DIMO team has to allow-list your ETH address to allow for minting.\
+We will refresh the list at the end of every week.\
 
-How to claim your Alpha Fleet Bronze NFT <img src="../.gitbook/assets/Bronze.png" alt="" data-size="line">\
-\
-you can claim your [NFT](https://galaxy.eco/dimo/campaign/GCDTXUUcjT) here \
-\
-How to claim your Alpha Fleet Silver NFT&#x20;
+{% endhint %}
