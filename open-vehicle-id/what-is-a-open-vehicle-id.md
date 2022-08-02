@@ -7,7 +7,7 @@ coverY: 122.87587446213367
 # What is a Open Vehicle ID?
 
 {% hint style="info" %}
-Coming soon - currently in closed Alpha testing&#x20;
+Currently in open Beta testing - you can mint your car for free once it's connected in the DIMO mobile app
 {% endhint %}
 
 DIMO unlocks a digital story of a vehicle’s life by creating an on-chain open vehicle ID (aka NFT) of their car. This digital asset will represent ownership over the data from their vehicle. &#x20;
