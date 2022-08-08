@@ -81,3 +81,4 @@
 * [Extending the DIMO Registry](engineering-documentation/extending-the-dimo-registry.md)
 * [Dynamic Metadata](engineering-documentation/dynamic-metadata.md)
 * [Access DIMO Data (Graph)](engineering-documentation/access-dimo-data-graph.md)
+* [NFT License](engineering-documentation/nft-license.md)
