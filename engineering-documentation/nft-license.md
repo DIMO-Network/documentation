@@ -78,7 +78,7 @@ In the event a user accidentally sends DIMO tokens directly to the contract, the
 
 To recover lost DIMO, we implemented a `emergencyWithdraw()` function that first checks for stuck tokens by subtracting the `dimoTotalAmountStaked` value from the total number of DIMO held on the contract. The returning value is only ever positive when the user accidentally sends tokens directly rather than interacting with the `stake()` function.
 
-If there is a positive amount, and the user has a staked balance, the tokens are transferred to specified user and the `EmergencyWithdrawal(user,amount)` event is emitted.
+If there is a positive amount, and the user has a staked balance, the tokens are transferred to the specified user and the `EmergencyWithdrawal(user,amount)` event is emitted.
 
 ### Upgradeability
 
