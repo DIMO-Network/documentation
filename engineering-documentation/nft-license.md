@@ -22,7 +22,7 @@ We had some requirements to consider for Licensing
 * Easier onboarding of future Manufacturers
 * Include specific metadata to prevent abuse
 
-In order to deliver the functionality inachieve the diagram above, where Hardware Manufacturers are licensed to create new DIMO-enabled devices we are using Account Bound Tokens (EIP-4973).
+In order to deliver the functionality inachieve the diagram above, where Hardware Manufacturers are licensed to create new DIMO-enabled devices we heavily influenced by Account Bound Tokens (EIP-4973).
 
 ### Advantages of ABTs
 
@@ -35,6 +35,8 @@ Additionally, there is a planned feature for `EIP4973` to include a `mintWithPer
 ### Interfaces
 
 In order to be maximally backward-compatible with existing ERC721 Infrastructure, ABTs (Account Bound Tokens) implement existing functions purposefully. Things like `EIP-165` and `ERC721Metadata` which wallets will already be familiar with.
+
+Additionally there is a `checkUserIsWhiteListed(address user)` function that returns a boolean and checks to see that the user has staked greater than the `minStakeAmount` in order to return true.
 
 ### ERC165
 
@@ -52,7 +54,7 @@ and the resulting boolean would tell you whether it's safe to proceed or not.
 
 ### Events
 
-`IERC4973` has two main events;
+Our `License`has two main events;
 
 **Attest**
 
@@ -69,3 +71,15 @@ Emits when a new token is related and bound to an account by any mechanism
 ```
 
 Emits when an existing ABT is revoked from an account and destroyed by any mechanism.
+
+#### Fund recovery
+
+In the event a user accidentally sends DIMO tokens directly to the contract, the tokens would not be credited to the sender and the tokens would effectively be “stuck” or “lost”. This is a limitation of the ERC20 standard and would apply to any token being sent to any smart contract.
+
+To recover lost DIMO, we implemented a `emergencyWithdraw()` function that first checks for stuck tokens by subtracting the `dimoTotalAmountStaked` value from the total number of DIMO held on the contract. The returning value is only ever positive when the user accidentally sends tokens directly rather than interacting with the `stake()` function.
+
+If there is a positive amount, and the user has a staked balance, the tokens are transferred to specified user and the `EmergencyWithdrawal(user,amount)` event is emitted.
+
+### Upgradeability
+
+To implement future features for posterity, we are using the Universal Upgradeable Proxy Standard, aka [EIP 1822](https://eips.ethereum.org/EIPS/eip-1822). This pattern is a standard for proxy contracts which is universally compatible with all contracts, and does not create incompatibility between the proxy and business-logic contracts. This is achieved by utilizing a unique storage position in the proxy contract to store the Logic Contract’s address. A compatibility check ensures successful upgrades. Upgrading can be performed unlimited times, or as determined by custom logic. In addition, a method for selecting from multiple constructors is provided, which does not inhibit the ability to verify bytecode.
